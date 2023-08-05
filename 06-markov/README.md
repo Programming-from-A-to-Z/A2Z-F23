@@ -40,19 +40,6 @@ It is not required to write any new code for this assignment, however I'll inclu
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
-- David Leyva - [Rapper Name Generator](https://wp.nyu.edu/davidaleyva/week-8-homework/)
-- Cheer Chen - [RitaMarkovEvercise](https://wp.nyu.edu/tischschoolofthearts-cheers/week-8-text-generation-markov-chains/)
-- Bowei - [Random Exhibition Title Generator](https://www.boweixu.com/post/random-exhibition-title-generator)
-- Henry Wang - [ITP PCOMP Project Generator](https://henryiswhy.tumblr.com/post/666797983855198208/programming-from-a-to-z-week-8)
-- Soojin Lee - [Markov Chain Instagram Caption & Song Remix](https://soojin-lee0819.github.io/ITPBlog/week8.html)
-- Yonatan Rozin - [Markov Chain "-ism" Generator](https://wp.nyu.edu/yonatanrozin/art-ism-generator-w-markov-chains/)
-- Nick Parisi - [Markov Spell Generator](https://wp.nyu.edu/spacethewhale/markov-spell-generator/)
-- Mai - [Markov Chain](https://wp.nyu.edu/mai_blog/week-8-a2z/)
-- Xiangrui Zeng - [Markov Chain Lyrics Generator](https://github.com/Siro1998/A-to-Z/tree/main/wk8)
-- Suraj Barthy - [Markov Kural Tests](https://surajbarthy.notion.site/Markov-Chain-1f9c4518147448bf96657ad6a9d4698b)
-- Jeeyoon Hyun - [NYTimes Headline Generator](https://blog.jeeyoonhyun.com/2021/11/03/generating-text-from-nytimes-headlines/)
-- Junoh Yu - [Markov Chain - New translate of my daily thoughts](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa5)
-- David Currie - [Kanye Quote Generator](https://kanye-markov.herokuapp.com/) [Code](https://github.com/davidalexandercurrie/kanye-markov)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 

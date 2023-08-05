@@ -72,7 +72,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Soojin Lee --[YouTube](https://developers.google.com/youtube/)
 - Henry Wang -- [Mushroom](https://mushroomobserver.org/)
 - Nick Parisi --[Pokemon](https://pokeapi.co/)
-- Tarun Sharma - W/O api:[Size of things](https://en.wikipedia.org/wiki/Orders_of_magnitude_(length)) and [TV Quotes](https://www.tv-quotes.com/), With api:[genius.com](https://docs.genius.com/)
+- Tarun Sharma - W/O api:[Size of things](<https://en.wikipedia.org/wiki/Orders_of_magnitude_(length)>) and [TV Quotes](https://www.tv-quotes.com/), With api:[genius.com](https://docs.genius.com/)
 - Shira -- [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
 - Jeeyoon Hyun -- [Screenshot API](https://docs.screenshotapi.net/)
 - Suraj Barthy - [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
@@ -81,23 +81,9 @@ In preparation for next week, add a link to a data source or API (even just data
 - Xiangrui Zeng -- [Kanye West API](https://kanye.rest/)
 - Casta Zhu -- [City Geo API](https://rapidapi.com/dev132/api/city-geo-location-lookup/)
 - Junoh Yu -- [Tinder API](https://gist.github.com/rtt/10403467)
+
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
-- Shira -- [horoscope RegEx](https://shira-sun.github.io/A2Z-02-regex/)
-- David Leyva -- [RegEx Quiz](https://wp.nyu.edu/davidaleyva/week-2-homework/)
-- Nick Parisi --[Regex Experiment and Game](https://wp.nyu.edu/spacethewhale/regex-text-experiment-and-games/)
-- Tarun Sharma -- [Chaotic Poetry](https://brownsloth.github.io/2021/09/19/regular-expressions/#Demo)
-- Cheer Chen -- [Regex practice](https://wp.nyu.edu/tischschoolofthearts-cheers/week2-regex/)
-- Yonatan Rozin -- [Programming with regular expressions](https://wp.nyu.edu/yonatanrozin/programming-with-regular-expressions/)
-- Suraj Barthy -- [\bRegex\b](https://surajbarthy.notion.site/Regular-Expressions-efddf932a737460b9c3ea675ad088b10)
-- Xiangrui Zeng -- [Regex Game](https://github.com/Siro1998/A-to-Z/tree/main/wk2)
-- Casta Zhu -- [Regex Practice](https://solstice-license-eb4.notion.site/Week2-Assignment-e0cc2ce44de14e9db8d7e6f2676b31b5)
-- Bowei Xu -- [Regex Practice](https://www.boweixu.com/post/regular-expressions)
-- Henry Wang -- [Regex Time Poem](https://henryiswhy.tumblr.com/post/663050575503605760/programming-from-a-to-z-week-2)
-- Junoh Yu -- [Regex Documentation](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa2)
-- David Currie -- [live code css](https://davidalexandercurrie.com/blog/regular-expressions/)
-- Jeeyoon Hyun -- [Glyph Eraser](https://glyph-eraser.glitch.me/)
-- Soojin Lee -- [Regex Games & Exercises](https://soojin-lee0819.github.io/ITPBlog/week2.html)

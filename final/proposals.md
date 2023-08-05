@@ -4,24 +4,7 @@
 
 ### November 17
 
-- Soojin - [Christmas Kindness Advent Calendar](https://soojin-lee0819.github.io/ITPBlog/week10.html)
-- David L - [Sally](https://wp.nyu.edu/davidaleyva/week-11-final-project-proposal/)
-- Nick - [Who Dat Pokemon](https://wp.nyu.edu/spacethewhale/programming-a-to-z-final-who-dat-pokemon/)
-- Cheer Chen - [Let's guess](https://docs.google.com/presentation/d/10Ok7TEOGEC1EVPGRzLLuugabHcmgYfdUv3Kr_kaYgdw/edit#slide=id.p)
-- Henry Wang - [Language of Pi](https://henryiswhy.tumblr.com/post/668073280168706048/programming-from-a-to-z-final-project-proposals)
-- Bowei - [Bot](https://www.boweixu.com/post/a-bot)
-- Casta - [K.K.Slider music album bot pro](https://casta.notion.site/Final-Proposal-K-K-Slider-Bot-pro-8743807cbca140398e054e2bf41ad9b3)
-- Jeeyoon Hyun - [Twitter Bot Idea Dump](https://blog.jeeyoonhyun.com/2021/11/17/twitter-bot-idea-dump/)
-
 ### November 24
-
-- Yonatan - [project name](project url)
-- Mai - [project name](project url)
-- Suraj - [project name](project url)
-- Junoh - [Between unreal and real](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa7)
-- David - [project name](project url)
-- Shira - [Computing Tech Illustrations](https://github.com/Shira-sun/A2Z_final)
-- Xiangrui - [Sentiment Flowers](https://github.com/Siro1998/A-to-Z/tree/main/final%20proposal)
 
 ## Proposal Feedback TLDR:
 

@@ -75,17 +75,3 @@ Reflect on your process of word counting and consider the following questions in
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
-
-- Nick Parisi - [Counting Cults](https://wp.nyu.edu/spacethewhale/word-counting-cults/)
-- David Leyva - [French Word Count](https://wp.nyu.edu/davidaleyva/week-4-homework/)
-- Tarun Sharma - [Word Bubbles](https://brownsloth.github.io/2021/10/05/word-bubbles/)
-- Soojin Lee - [Counting Words: English Song Data Visualization In Korean](https://soojin-lee0819.github.io/ITPBlog/week4.html)
-- Cheer Chen - [I Love Bananas](https://wp.nyu.edu/tischschoolofthearts-cheers/week-4-text-analysis/)
-- Mai - [Counting Words](https://wp.nyu.edu/mai_blog/week-4-a2z/)
-- Henry Wang - [To Steve Jobs](https://henryiswhy.tumblr.com/post/664262683689975808/programming-from-a-to-z-week-4)
-- Bowei Xu - [Catch Phrase Catcher](https://www.boweixu.com/post/chatbot-learn-and-test)
-- Suraj Barthy - [Text Fail](https://surajbarthy.notion.site/Word-count-16251e0c9c234a909450c3f18651f17d)
-- Casta Zhu - [Count lyrics](https://www.notion.so/Week4-Assignment-4170501d3234411abb78251371e172aa)
-- Yonatan Rozin - [Positional Word "Counting"](https://wp.nyu.edu/yonatanrozin/word-counting/)
-- David Currie - [tweet count](https://davidalexandercurrie.com/blog/counting-words/)
-- Xiangrui Zeng - [Lyrics Count](https://github.com/Siro1998/A-to-Z/tree/main/wk4)

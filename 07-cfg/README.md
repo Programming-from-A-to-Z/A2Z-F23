@@ -46,18 +46,6 @@ Something you might consider is pulling the "terminal" words for your grammar fr
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
-- David Leyva - [Fictional Sports Team Generator](https://wp.nyu.edu/davidaleyva/week-9-homework/)
-- Soojin Lee - [What a Recipe!](https://soojin-lee0819.github.io/ITPBlog/week9.html)
-- Nick Parisi - [Audio Madlibs kinda](https://wp.nyu.edu/spacethewhale/context-free-grammar-with-audio-kind-of/)
-- Xiangrui Zeng - [Random Diary Generator](https://github.com/Siro1998/A-to-Z/tree/main/wk9)
-- Cheer Chen - [Today I met a girl called](https://wp.nyu.edu/tischschoolofthearts-cheers/week-9-ml/)
-- Henry Wang - [Fortune Cookie Generator](https://henryiswhy.tumblr.com/post/667435127020863489/programming-from-a-to-z-week-9)
-- Bowei -[Colab Tryouts](https://www.boweixu.com/post/context-free-grammar-and-recurrent-neural-network)
-- Junoh Yu - [Random Words Generator](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa6)
-- Yonatan Rozin - [EMOTIONAL MOVIE CLIMAX generator](https://wp.nyu.edu/yonatanrozin/movie-climax-generator-with-cfgs/)
-- Mai - [Ask Dear One](https://wp.nyu.edu/mai_blog/week-9-a2z/)
-- Jeeyoon Hyun - [Fluffy Artist Generator](https://blog.jeeyoonhyun.com/2021/11/10/fluffy-artist-generator/)
-- Casta - [Album Stroy Generator](https://casta.notion.site/CFG-practice-eed63bbec03b4a568458449eb4829617)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 

@@ -25,11 +25,11 @@ If you are not sure how to design your testing, e-mail me and we'll discuss.
 
 ### Group A Presenters: 3:30-4:30
 
-- Junoh, David, Xiangrui, Jeeyoon, Nick, Soojin, Bowei
+- TBD
 
 ### Group B Presenters: 4:45-5:45
 
-- David L, Casta, Suraj, Shira, Cheer, Henry, Yonatan, Mai
+- TBD
 
 ### 5:45
 

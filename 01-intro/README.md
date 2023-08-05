@@ -56,18 +56,3 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
-- David Leyva -- [No Paris???](https://wp.nyu.edu/davidaleyva/week-1-homework/)
-- Soojin -- [Converting English to Korean Using Numbers](https://www.notion.so/Programming-from-A-Z-7136b52629c945c0ae4c4c3e8dec03e6#43d3fadc094b4e92b54b732c49dbbff9) , [Translation with Numbers blog post](https://soojin-lee0819.github.io/ITPBlog/week1.html)
-- Shira -- [ink poem](https://shira-sun.github.io/A2Z-01/)
-- Nick Parisi -- [Constrained Word Assignment](https://wp.nyu.edu/spacethewhale/analog-constrained-writing/)
-- Tarun Sharma -- [Constrained writing – Spacing dictated by the fibonacci sequence](https://brownsloth.github.io/2021/09/13/constrained-writing/#Demo)
-- Henry Wang -- [Constrained writing with code - Time about Kaiyu](https://henryiswhy.tumblr.com/post/662405466137264128/programming-from-a-to-z-week-1) 
-- Xiangrui Zeng -- [Constrained writing - Pie Spacing](https://siro1998.github.io/A-to-Z/)
-- Cheer Chen -- [Constrained writing – DROPS] https://cheeeeeeer.github.io/Programming-A2Z/dist/index- Jeeyoon Hyun - [Squarify!!](https://a2z-week-1.glitch.me)
-- David Currie [Contrained Writing Assignment](https://davidalexandercurrie.com/blog/constrained-writing/)
-- Casta Zhu -- [Constrained writing](https://solstice-license-eb4.notion.site/Wee1-Assignment-bbecb24a85f240e99305a31b4c7f686d)
-- Cheer Chen -- [Constrained writing – DROPS](https://cheeeeeeer.github.io/Programming-A2Z/dist/index)
-- Mai -- [Constrained writing: Oscar Wilde](https://wp.nyu.edu/mai_blog/week-1-a2z/)
-- Yonatan Rozin -- [Algorithmically Synthesized Text](https://wp.nyu.edu/yonatanrozin/algorithmically-synthesized-writing/)
-- Suraj Barthy --[Acrostic Pluralistic](https://wp.nyu.edu/surajbarthy/a2z-week-1/)
-- Junoh Yu --[Constrained Writing](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc)

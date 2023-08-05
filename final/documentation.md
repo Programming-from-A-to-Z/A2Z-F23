@@ -1,22 +1,8 @@
 # Final Project Documentation
 
 ## Schedule and Documentation Links:
+
 - 3:30: Welcome! 👋
-- 3:35: David L - [Sally](https://wp.nyu.edu/davidaleyva/week-14-final-project-documentation/)
-- 3:43: Shira - [drawings](https://github.com/Shira-sun/A2Z-final-project)
-- 3:51: Suraj - [Letters to...](https://surajbarthy.notion.site/A2Z-Final-Project-Blog-WIP-3816fe99cd1345fbab4824505848d37b)
-- 3:59: Junoh - [title](url)
-- 4:07: David C - [title](url)
-- 4:23: Cheer - [Let's guess](https://wp.nyu.edu/tischschoolofthearts-cheers/week-12-final-project-proposals/)
-- 4:31: Bowei - [Game Bot](https://www.boweixu.com/post/game-bot-a-to-z-final)
-- BREAK
-- 5:00: Casta - [K.K.Slider Bot](https://casta.notion.site/Final-K-K-Slider-bot-d48984419eab40a9a584cf7aac12c61b)
-- 5:08: Xiangrui - [Sentiment Flowers](https://github.com/Siro1998/A-to-Z/tree/main/final%20project)
-- 5:16: Yonatan - [Context-Free Grammies](https://editor.p5js.org/yonatanrozin/full/WWzeJxnCP)
-- 5:24: Henry - [myceli-net](https://docs.google.com/presentation/d/13ptWoRNiQRbkwENLJn_i6RoobS99tu6RYp_FLsvPYIQ/edit?usp=sharing)
-- 5:32: Nick - [Who Dat Pokemon](https://wp.nyu.edu/spacethewhale/who-dat-pokemon/)
-- 5:40: Mai - [ColorVectors](https://wp.nyu.edu/mai_blog/final-a2z/)
-- 5:48: Soojin - [Christmas Kindness Advent Calendar](https://soojin-lee0819.github.io/ITPBlog/project.html)
 
 ## Guidelines
 

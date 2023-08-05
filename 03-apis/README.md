@@ -74,16 +74,3 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
-- David Leyva - [Once Upon a GIF](https://wp.nyu.edu/davidaleyva/week-3-homework/)
-- Cheer Chen - [Water](https://wp.nyu.edu/tischschoolofthearts-cheers/week3-apis/)
-- Tarun Sharma - [(Under-construction) Synonym Tree](https://brownsloth.github.io/2021/09/28/synonym-tree/#Demo)
-- Henry Wang - [A 2 Z bookcover](https://henryiswhy.tumblr.com/post/663624924564455424/programming-from-a-to-z-week-3)
-- Soojin Lee - [Exploring Data, Libraries, and APIs](https://soojin-lee0819.github.io/ITPBlog/week3.html)
-- Bowei Xu - [Satellite Locator](https://www.boweixu.com/post/satellite-lookup)
-- Mai - [API](https://wp.nyu.edu/mai_blog/week-3-a2z/)
-- Xiangrui [Kanye Quote & Gif](https://github.com/Siro1998/A-to-Z/tree/main/wk3)
-- Yony - [Part of speech synthesis](https://wp.nyu.edu/yonatanrozin/first-adventure-with-apis/)
-- Suraj Barthy - [Kural Call](https://surajbarthy.notion.site/APIs-cc165d80c9e540e1adad260b0a1aa2b5)
-- Jeeyoon Hyun - [Attaching the NYT API to WordEater](https://jeeyoon-gatsby-blog.netlify.app/blog/2021/09/attaching-the-new-york-times-api-to-wordeater/)
-- David Currie - [pokemon api](https://davidalexandercurrie.com/blog/apis/)
-- Nick Parisi - [Who's That Pokemon](https://wp.nyu.edu/spacethewhale/whos-that-pokemon-api-part-1/)
