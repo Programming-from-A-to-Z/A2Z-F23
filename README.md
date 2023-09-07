@@ -1,11 +1,11 @@
-# Programming from A to Z, Fall 2021
+# Programming from A to Z, Fall 2023
 
-This course focuses on programming strategies and techniques behind procedural analysis and generation of text-based data. We\'ll explore topics ranging from evaluating text according to its statistical properties to the automated production of text with probabilistic methods to text visualization. Students will learn server-side and client-side JavaScript programming and develop projects that can be shared and interacted with online. This fall the course will also explore topics in machine learning as related to text. There will be weekly homework assignments as well as a final project.
+This course is a survey of programming strategies and techniques for the procedural analysis and generation of text-based data. Topics include analyzing text based on its statistical properties, automated text production using probabilistic methods, and text visualization. Students will learn server-side and client-side JavaScript programming and build single-page web applications as well as bots for social media networks. Additionally, this course will also include examples related to working latest open-source and commercial machine learning models for text and image generation. The course will include weekly homework coding exercises and an open-ended final project.
 
 ## Info
 
-- Daniel Shiffman, Wednesdays, 3:30-6:00
-- [All class dates](https://itp.nyu.edu/help/fa21-class-dates-and-deadlines/)
+- Daniel Shiffman, Fridays, 9:30-12:00
+- [All class dates](https://itp.nyu.edu/help/fa23-class-dates-and-deadlines/)
 - Office Hours (use NYU google calendar appts, link via class mailing list)
 
 ## CODE OF CONDUCT
@@ -24,9 +24,9 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 4 - [Text Analysis](04-word-counting), Sep 29
 
-### Week 5 - [Bots Part 1 (Twitter)](05-bots), Oct 6
+### Week 5 - [Bots Part 1](05-bots), Oct 6
 
-### Week 6 - [Bots Part 2 (Discord)](05-bots), Oct 13
+### Week 6 - [Bots Part 2](05-bots), Oct 13
 
 ### Week 7 - [Bot Experiments Sharing](05-bots#add-your-assignment-below-via-pull-request), Oct 20
 
@@ -38,11 +38,11 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 11 - [Final Project Proposals](final) + [more ML](08-ml), Nov 17
 
-### Week 12 - [Final Project Proposals](final) + [more node.js API](08-ml), Nov 24
+### Week 12 - [Final Project Proposals](final) + [more node.js API](08-ml), Dec 1
 
-### Week 13 - Final Project in Progress, Dec 1
+### Week 13 - Final Project in Progress, Dec 8
 
-### Week 14 - Final Project Presentations, Dec 8
+### Week 14 - Final Project Presentations, Dec 15
 
 ## Evaluation
 

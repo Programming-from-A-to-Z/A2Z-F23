@@ -67,20 +67,6 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 In preparation for next week, add a link to a data source or API (even just data that appears in raw form on a web page) that interests you! Don't worry about this too much, anything will do! I'll use this list to prepare examples for next week.
 
 - add a link to your API / data source here
-- David Leyva -- [GIPHY API](https://developers.giphy.com/docs/api/)
-- Bowei Xu -- [NASA](https://api.nasa.gov/)
-- Soojin Lee --[YouTube](https://developers.google.com/youtube/)
-- Henry Wang -- [Mushroom](https://mushroomobserver.org/)
-- Nick Parisi --[Pokemon](https://pokeapi.co/)
-- Tarun Sharma - W/O api:[Size of things](<https://en.wikipedia.org/wiki/Orders_of_magnitude_(length)>) and [TV Quotes](https://www.tv-quotes.com/), With api:[genius.com](https://docs.genius.com/)
-- Shira -- [Oxford Dictionaries](https://developer.oxforddictionaries.com/)
-- Jeeyoon Hyun -- [Screenshot API](https://docs.screenshotapi.net/)
-- Suraj Barthy - [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
-- Cheer Chen -- [Street View Publish API](https://developers.google.com/streetview/publish/reference/rest/)
-- Yonatan Rozin -- [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
-- Xiangrui Zeng -- [Kanye West API](https://kanye.rest/)
-- Casta Zhu -- [City Geo API](https://rapidapi.com/dev132/api/city-geo-location-lookup/)
-- Junoh Yu -- [Tinder API](https://gist.github.com/rtt/10403467)
 
 ## Add your assignment below via Pull Request
 

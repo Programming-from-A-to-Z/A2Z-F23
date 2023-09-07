@@ -48,10 +48,6 @@
 - 🍿 [RiveScript + p5.js video tutorial](https://www.youtube.com/watch?v=zGe1m_bLOFk)
 - 💻 [RiveScript p5.js Number Guessing Chatbot](https://editor.p5js.org/codingtrain/sketches/_XqFRhtaK)
 
-### DialogFlow
-
-- 🔗 [DialogFlow docs](https://cloud.google.com/dialogflow/docs/)
-
 ## Bot Project, Due Wednesday October 20
 
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/) and [Twitter](http://twitter.com/) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
@@ -63,20 +59,8 @@ Prepare a 5 minute presentation on your bot on Wednesday, Oct 20th.
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
-* Name - [project title](url)
-* Nick Parisi- [Who Dat Pokemon?!](https://wp.nyu.edu/spacethewhale/who-dat-pokebot-step-1/)
-* Xiangrui Zeng - [Art Everyday Bot](https://github.com/Siro1998/A-to-Z/tree/main/wk5)
-* Soojin Lee - [Korean Language Test Discord Bot](https://soojin-lee0819.github.io/ITPBlog/bot.html)
-* Junoh Yu - [Random Clips(Bot) with Processing](https://www.junohyu.com/art-tech/syntheticarchitecture-ary4h-fzaz6-mr3el-ctrfc#sa4)
-* David Leyva - [Sally the Roasting Bot](https://wp.nyu.edu/davidaleyva/bots-project/)
-* Tarun Sharma - [MashupMaker Bot](https://brownsloth.github.io/2021/10/20/rap-mashup-bot/)
-* Yonatan Rozin - [Existing FeatureBot](https://wp.nyu.edu/yonatanrozin/creating-a-discord-bot/)
-* Bowei - [Discord Chatbot](https://www.boweixu.com/post/discord-chatbot)
-* Cheer Chen - [StirDuck Bot](https://wp.nyu.edu/tischschoolofthearts-cheers/week-6-bots-part-2-discord/)
-* Mai - [MaiBot](https://wp.nyu.edu/mai_blog/week-6-a2z/)
-* Casta - [K.K.Slider Bot](https://solstice-license-eb4.notion.site/Week5-6-Assignment-73d3cf22f9cc49f18d298eb6ecea8574)
-* Henry Wang - [Pi Bot](https://henryiswhy.tumblr.com/post/665590874538967040/programming-from-a-to-z-bot-project)
-* Jeeyoon Hyun - [A Silent Beholder](https://blog.jeeyoonhyun.com/blog/2021/10/a-silent-beholder/)
+
+- Name - [project title](url)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 

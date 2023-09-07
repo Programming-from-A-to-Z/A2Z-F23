@@ -60,7 +60,7 @@
 
 ## Assignment
 
-Choose a text or data source and count word frequencies following the examples above. Design your own creative output. This need not be visual (sonify word counts?) nor does it require code (knit your own word frequency scarf! Some things to consider:
+Choose a text or data source and count word frequencies following the examples above. Design your own creative output. This need not be visual (sonify word counts?) nor does it require code (knit your own word frequency scarf!) Some things to consider:
 
 - Use a language other than English!
 - What happens if you compare different texts according to word frequency?
