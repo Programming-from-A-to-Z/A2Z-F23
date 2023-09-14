@@ -8,7 +8,6 @@
   - [Cut-up machine](http://www.languageisavirus.com/cutupmachine.html#.VfHCY51Viko)
 - "Erasures"
   - [Erasure Poetry](<https://en.wikipedia.org/wiki/Erasure_(artform)>)
-  - [Make an online Erasure](http://erasures.wavepoetry.com/erasures.php?sourceid=23)
 - "N+7" or "V+\_\_"
   - [N+7 technique](https://poets.org/text/brief-guide-oulipo)
   - [N+7 machine](http://www.spoonbill.org/n+7/)
@@ -37,11 +36,11 @@
 ## Code Examples
 
 - [All web editor examples](https://editor.p5js.org/a2zitp/collections/p8Eg_u_Jl)
-- [Older 2018 Notes and Examples](http://shiffman.net/a2z/intro/)
+- [Older 2018 Notes and Examples](https://shiffman-archive.netlify.app/a2z/intro/)
 
 ## Workflow (videos)
 
-- [WorkFlow videos for local development outside of the p5 web editor](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X): VSCode, Shell, Node, Git, Python venv
+- [WorkFlow videos for local development outside of the p5 web editor](https://thecodingtrain.com/tracks/2018-workflow): VSCode, Shell, Node, Git, Python venv
 
 ## Assignment
 
@@ -49,7 +48,7 @@
 2. Read / watch
    - [Stephanie Dinkins Eyeo Talk](https://vimeo.com/354277038)
    - Introduction and Chapter 8 (which includes section on Jackson Mac Low's diastic) from [Virtual muse experiments in computer poetry, Charles O. Hartman 1949- Project Muse., Hanover, NH : University Press of New England c1996](https://muse-jhu-edu.proxy.library.nyu.edu/book/2399) - login via NYU for access to downloadable PDFs
-3. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!) Create a webpage with the results using some combination of HTML, CSS, and/or JavaScript. Host the page online ([blog post](https://docs.google.com/presentation/d/17V6EHorAnHwCeZaUGAQ0W2GvVOgUk9LsU8bOFGP4m3g/edit#slide=id.g8af5174524_0_253), [p5 web editor](https://youtu.be/dtHxDggkBYc), [Glitch](https://glitch.com/), [GitHub pages](https://youtu.be/8HPYsDTk17A)). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in an this now 7 years old [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
+3. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!) Create a webpage with the results using some combination of HTML, CSS, and/or JavaScript. Host the page online ([blog post](https://docs.google.com/presentation/d/17V6EHorAnHwCeZaUGAQ0W2GvVOgUk9LsU8bOFGP4m3g/edit#slide=id.g8af5174524_0_253), [p5 web editor](https://youtu.be/dtHxDggkBYc), [Glitch](https://glitch.com/), [GitHub pages](https://thecodingtrain.com/tracks/p5-tips-and-tricks/more-p5/github-pages-hosting)). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in an this now 7 years old [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
 
 ## Add your name / link to your assignment below
 
