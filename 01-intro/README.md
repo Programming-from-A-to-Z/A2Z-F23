@@ -30,7 +30,8 @@
 
 ## JavaScript String (videos)
 
-- [The JavaScript String object](https://youtu.be/DcoAjEZYies?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
+- [JavaScript String object (video)](https://youtu.be/DcoAjEZYies?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
+- [JavaScript String object (docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Creating a Diastic Machine](https://youtu.be/u-HUtrpyi1c?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
 
 ## Code Examples
