@@ -58,3 +58,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jane -- [wk01hw](https://www.notion.so/janecheng/Week-1-Intro-cf328aa23a824d2a8d73c21cae440263)
 - Lisa -- [week1_assignment](https://www.notion.so/lisajeong-itp/Assignment-Week1-fd6a18e7e93f40dab96d7635ee31e940?pvs=4)
 - Daniel -- [week1_constrained_writing](https://rough-buffer-c0b.notion.site/Week-1-Constrained-Writing-63dfe03ba7dc43deb5884c4866a2a21f?pvs=4)
+- Lan -- [Week1_assignment](https://yichunlan.com/A2Z-Week-1)
