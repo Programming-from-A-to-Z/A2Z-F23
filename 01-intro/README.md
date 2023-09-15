@@ -61,3 +61,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Daniel -- [week1_constrained_writing](https://rough-buffer-c0b.notion.site/Week-1-Constrained-Writing-63dfe03ba7dc43deb5884c4866a2a21f?pvs=4)
 - Lan -- [Week1_assignment](https://yichunlan.com/A2Z-Week-1)
 - Mathew -- [Galaxy Riprap (open in editor to see my commentary)](https://editor.p5js.org/molson/full/3bjxFIanp)
+- Tres - [novel noun switching ] (https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=ce0b90c4d1ec43eb80d9e6949b4dd8e4&pm=c)
