@@ -57,3 +57,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Name -- [assignment title](assignment url)
 - Jane -- [wk01hw](https://www.notion.so/janecheng/Week-1-Intro-cf328aa23a824d2a8d73c21cae440263)
 - Lisa -- [week1_assignment](https://www.notion.so/lisajeong-itp/Assignment-Week1-fd6a18e7e93f40dab96d7635ee31e940?pvs=4)
+- Yizhi -- [N+1](https://chartreuse-toad-fcc.notion.site/A2Z-27717cc9438048c5bd535a71c66f4255?pvs=4)
