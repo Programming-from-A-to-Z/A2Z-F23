@@ -67,4 +67,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Mica -- [Strengths of Ethics] (https://micalages.wordpress.com/2023/09/15/strengths-of-ethics/) 
 - Joann - [week1 Lipogram] (https://www.notion.so/joannmyung/Week-1-Lipogram-d04a4fc7b3fb4c5d97162e5992d79dfe)
 - Athena -- [01-Intro](https://www.notion.so/athenazhou/01-Intro-869e4aebdb9649cbaab82a57c4146a33?pvs=4)
+- Kay - [constrained writing example] (https://kayitp.wordpress.com/2023/09/14/programming-a-to-z-wk1-constrained-writing-sample/)
 - Annan - [week1 Less than 5 letters](https://www.notion.so/Assignment-e3d9243581e948daaec5b7f646720b2e?pvs=4)
