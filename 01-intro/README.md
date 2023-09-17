@@ -16,11 +16,13 @@
   - [Science, Technology, and Poetry: Some Thoughts on Jackson Mac Low](http://research.amnh.org/users/mordecai/papers/jml_fest.html)
   - [Online Diastic generator](http://www.eddeaddad.net/eDiastic/)
 
-## p5.js DOM Review (videos)
+## p5.js DOM Review
 
-- [What is HTML?](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- [What is CSS?](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- [Creating DOM Elements with p5.js](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Beyond the Canvas, p5.js tutorial](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+- [What is HTML? (video)](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+- [What is CSS? (video)](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+- [Creating DOM Elements with p5.js (video)](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [CSS Property Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 ## p5.js Loading Text (videos)
 
@@ -63,9 +65,9 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lan -- [Week1_assignment](https://yichunlan.com/A2Z-Week-1)
 - Mathew -- [Galaxy Riprap (open in editor to see my commentary)](https://editor.p5js.org/molson/full/3bjxFIanp)
 - Tres - [novel noun switching ](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=ce0b90c4d1ec43eb80d9e6949b4dd8e4&pm=c)
-- Dror - [AI is the Message] (https://www.drormargalit.com/post/ai-is-the-message)
-- Mica -- [Strengths of Ethics] (https://micalages.wordpress.com/2023/09/15/strengths-of-ethics/) 
-- Joann - [week1 Lipogram] (https://www.notion.so/joannmyung/Week-1-Lipogram-d04a4fc7b3fb4c5d97162e5992d79dfe)
+- Dror - [AI is the Message](https://www.drormargalit.com/post/ai-is-the-message)
+- Mica -- [Strengths of Ethics](https://micalages.wordpress.com/2023/09/15/strengths-of-ethics/)
+- Joann - [week1 Lipogram](https://www.notion.so/joannmyung/Week-1-Lipogram-d04a4fc7b3fb4c5d97162e5992d79dfe)
 - Athena -- [01-Intro](https://www.notion.so/athenazhou/01-Intro-869e4aebdb9649cbaab82a57c4146a33?pvs=4)
-- Kay - [constrained writing example] (https://kayitp.wordpress.com/2023/09/14/programming-a-to-z-wk1-constrained-writing-sample/)
+- Kay - [constrained writing example](https://kayitp.wordpress.com/2023/09/14/programming-a-to-z-wk1-constrained-writing-sample/)
 - Annan - [week1 Less than 5 letters](https://www.notion.so/Assignment-e3d9243581e948daaec5b7f646720b2e?pvs=4)

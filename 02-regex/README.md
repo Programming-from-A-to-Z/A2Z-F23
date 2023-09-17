@@ -41,7 +41,12 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 
 ### Regular Expressions Experiments
 
-- Experiment with using Regular Expressions in a text editor. What new powers does this unlock in your workflow? Write up a post documenting your experiments.
+- Experiment with using Regular Expressions in a text editor. What new powers does this unlock in your workflow? Write up a post documenting your experiments. Ideas you can try:
+
+  - Write a regular expression to find and remove all HTML tags.
+  - Find all emails or phone numbers in a document.
+  - Parse a markdown file and find all headers (h1, h2, h3, etc.).
+
 - Play an [online Regular Expressions game like these two above](#libraries-and-games) or share any you find! Write up a post documenting your experience.
 
 ### Regular Expressions in JavaScript
