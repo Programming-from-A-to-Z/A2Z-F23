@@ -16,11 +16,12 @@
   - [Science, Technology, and Poetry: Some Thoughts on Jackson Mac Low](http://research.amnh.org/users/mordecai/papers/jml_fest.html)
   - [Online Diastic generator](http://www.eddeaddad.net/eDiastic/)
 
-## p5.js DOM Review (videos)
+## p5.js DOM Review
 
-- [What is HTML?](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- [What is CSS?](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
-- [Creating DOM Elements with p5.js](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Beyond the Canvas, p5.js tutorial](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+- [What is HTML? (video)](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+- [What is CSS? (video)](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
+- [Creating DOM Elements with p5.js (video)](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 ## p5.js Loading Text (videos)
 
