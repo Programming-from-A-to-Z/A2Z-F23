@@ -22,6 +22,7 @@
 - [What is HTML? (video)](https://youtu.be/URSH0QpxKo8?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - [What is CSS? (video)](https://youtu.be/zGL8q8iQSQw?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - [Creating DOM Elements with p5.js (video)](https://youtu.be/lAtoaRz78I4?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [CSS Property Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
 ## p5.js Loading Text (videos)
 
