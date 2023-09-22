@@ -69,6 +69,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name -- [assignment title](assignment url)
 - Jane -- wk02hw(https://janecheng.notion.site/Week-2-Regular-Expressions-869134d190d04cd5bd56f98a038216d0?pvs=4)
+- Lan -- [I MADE SOME CAKES!! 🍰](https://yichunlan.com/A2Z-Week-2)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
