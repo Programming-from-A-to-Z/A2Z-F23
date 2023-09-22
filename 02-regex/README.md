@@ -73,7 +73,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lan -- [I MADE SOME CAKES!! 🍰](https://yichunlan.com/A2Z-Week-2)
 - Athena -- [Word Interactor v1.2](https://www.notion.so/athenazhou/02-Regular-Expressions-91708407463842669e398221156765e8?pvs=4)
 - Cindy -- [Pikachu](https://rhetorical-croissant-d02.notion.site/week2-Regex-Cindy-Wang-2d92de4e68f145e89b40df0cda28b97f?pvs=4)
-
+- Hyungin -- [Week02_Regex](https://www.notion.so/Week02_Regex-2389aada4aa54aff88fda676026bff92?pvs=4)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
