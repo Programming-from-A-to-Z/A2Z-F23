@@ -63,6 +63,7 @@ In preparation for next week, add a link to a data source or API (even just data
 
 - add a link to your API / data source here
 - Athena -- [The New York Times Developer Network](https://developer.nytimes.com)
+- Cindy --[Are.na API](https://dev.are.na/documentation/channels)
 
 ## Add your assignment below via Pull Request
 
