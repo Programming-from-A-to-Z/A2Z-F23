@@ -1,15 +1,5 @@
 # APIs and Libraries
 
-## Emoji Key for Video Tutorials, Readings, and more
-
-- 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
-- 🔢 This is found in a group, maybe pick just one to check out!
-- 🍿 Additional video if you have a particular interest and want to do a deeper dive.
-- 📕 Required reading! Let's make sure we all have read this.
-- 📚 Optional additional reading for a deeper dive.
-- 💻 Code examples here!
-- 🔗 Extra reference material / link
-
 ## NLP Libraries
 
 - 🔗 [RiTa](https://rednoise.org/rita/), a software toolkit for computational literature created by Daniel Howe
@@ -20,13 +10,12 @@
 
 ## Data and APIs
 
-- 📚 [2016 Notes and Examples](http://shiffman.net/a2z/data-apis/)
-- 📚 [slides](https://docs.google.com/presentation/d/1Z1MoqaVg0EwT4UYNLkdqJoIk2UkRCk_sdibxjpYFkvo/edit?usp=sharing)
-
 ### JSON
 
 - 🔗 [Corpora maintained by tinysubversions](https://github.com/dariusk/corpora)
 - 🔗 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON)
+- 📚 [loadJSON, fetch, promises slides](https://docs.google.com/presentation/d/1z5x5PZ0EhGxFkt488Q3edLdvY67Ptg0AH5KKmP2vE_Q/edit?usp=sharing)
+- 📚 [2016 Notes and Examples](https://shiffman-archive.netlify.app/a2z/data-apis/)
 
 ### Dictionary / Lexicon / Word Finding APIs
 
@@ -36,9 +25,9 @@
 
 ### JavaScript nuts and bolts
 
-- 🚨 [fetch() video tutorial](https://youtu.be/tc8DU14qX6I?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
+- 🚨 [fetch() video tutorial](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/1-client-side/1-fetch)
 - 🚨 [async / await](https://youtu.be/XO77Fib9tSI)
-- 🚨 [loading JSON from API](https://youtu.be/uxf0--uiX0I?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
+- 🚨 [loading JSON from API](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/1-client-side/4-json)
 - 🍿 [What is JSON? Video 1](https://youtu.be/_NFkzw6oFtQ?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r), [What is JSON Video 2](https://youtu.be/118sDpLOClw?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
 ### APIs
@@ -46,7 +35,7 @@
 - 💻 [p5.js web editor code examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE)
 - 🔢 [2015 Wordnik Video Tutorial](https://youtu.be/YsgdUaOrFnQ), [wordnik docs](http://developer.wordnik.com/)
 - 🔢 [2015 NY Times video tutorial](https://youtu.be/IMne3LY4bks), [nytimes docs](https://developer.nytimes.com/)
-- 🍿 [2019 Working with Data and APIs video series](https://youtu.be/tc8DU14qX6I?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X) - 1: Client Side Basics
+- 🍿 [Full 2019 Working with Data and APIs video series](https://thecodingtrain.com/tracks/data-and-apis-in-javascript) - 1: Client Side Basics
 
 ## Reading
 
@@ -74,3 +63,13 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+
+## Emoji Key for Video Tutorials, Readings, and more
+
+- 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
+- 🔢 This is found in a group, maybe pick just one to check out!
+- 🍿 Additional video if you have a particular interest and want to do a deeper dive.
+- 📕 Required reading! Let's make sure we all have read this.
+- 📚 Optional additional reading for a deeper dive.
+- 💻 Code examples here!
+- 🔗 Extra reference material / link
