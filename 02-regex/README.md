@@ -62,14 +62,16 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 In preparation for next week, add a link to a data source or API (even just data that appears in raw form on a web page) that interests you! Don't worry about this too much, anything will do! I'll use this list to prepare examples for next week.
 
 - add a link to your API / data source here
+- Athena -- [The New York Times Developer Network](https://developer.nytimes.com)
 
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name -- [assignment title](assignment url)
-- Jane -- wk02hw(https://janecheng.notion.site/Week-2-Regular-Expressions-869134d190d04cd5bd56f98a038216d0?pvs=4)
+- Jane -- [wk02hw](https://janecheng.notion.site/Week-2-Regular-Expressions-869134d190d04cd5bd56f98a038216d0?pvs=4)
 - Lan -- [I MADE SOME CAKES!! 🍰](https://yichunlan.com/A2Z-Week-2)
+- Athena -- [Word Interactor v1.2](https://www.notion.so/athenazhou/02-Regular-Expressions-91708407463842669e398221156765e8?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
