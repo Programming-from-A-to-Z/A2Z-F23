@@ -64,7 +64,8 @@ In preparation for next week, add a link to a data source or API (even just data
 - add a link to your API / data source here
 - Athena -- [The New York Times Developer Network](https://developer.nytimes.com)
 - Mathew -- [The Internet Movie Script Database](https://imsdb.com/) -- Not sure if it has an official API, [but these github projects may be useful](https://github.com/topics/imsdb)
-
+- Cindy --[Are.na API](https://dev.are.na/documentation/channels)
+- 
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
@@ -74,7 +75,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lan -- [I MADE SOME CAKES!! 🍰](https://yichunlan.com/A2Z-Week-2)
 - Athena -- [Word Interactor v1.2](https://www.notion.so/athenazhou/02-Regular-Expressions-91708407463842669e398221156765e8?pvs=4)
 - Cindy -- [Pikachu](https://rhetorical-croissant-d02.notion.site/week2-Regex-Cindy-Wang-2d92de4e68f145e89b40df0cda28b97f?pvs=4)
-
+- Hyungin -- [Week02_Regex](https://www.notion.so/Week02_Regex-2389aada4aa54aff88fda676026bff92?pvs=4)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
