@@ -65,6 +65,8 @@ In preparation for next week, add a link to a data source or API (even just data
 - Athena -- [The New York Times Developer Network](https://developer.nytimes.com)
 - Mathew -- [The Internet Movie Script Database](https://imsdb.com/) -- Not sure if it has an official API, [but these github projects may be useful](https://github.com/topics/imsdb)
 - Cindy --[Are.na API](https://dev.are.na/documentation/channels)
+- Oliver --[Artsy.net API](https://developers.artsy.net)
+- 
 - 
 ## Add your assignment below via Pull Request
 
