@@ -47,10 +47,10 @@
 
 1. Load "external" data in a browser-based text experiment. You may use the p5 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON) function featured in many of the video tutorials, but this is also an opportunity to explore the JavaScript [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with `await` and `async` as [found in these examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE). See above for relevant video tutorials. Here are some ideas:
 
-   - Look through [Corpora](https://github.com/dariusk/corpora) and download JSON files for use in a p5.js sketch. This is also a great repo to make your first open source contribution! If you are interested in trying as part of your assignment, you can [follow these instructions](https://github.com/Open-Source-Studio-at-ITP/Syllabus/blob/source/data-assignment.md#instructions-for-corpora-contribution) from Open Source Studio and submit a pull request.
+   - Look through [Corpora](https://github.com/dariusk/corpora) and download JSON files for use in a p5.js sketch. For this I suggest using `loadJSON()` directly.
    - Use [RiTa.js](https://github.com/dhowe/RiTaJS) or [Compromise](https://github.com/spencermountain/compromise) to analyze and/or modify text.
-   - Use [Wordnik](http://developer.wordnik.com/) to lookup meta-data about a word.
-   - Try using another API from the examples (NYTimes, Wikipedia, etc.) or pick your own not in the examples!
+   - Use an API like [Datamuse](https://www.datamuse.com/api/) or [Wordnik](http://developer.wordnik.com/) to lookup meta-data about a word.
+   - Try using another API from the examples (NYTimes, Wikipedia, etc.) or pick your own not from the examples!
 
 2. Document your experience working with the library, API, or data source in a blog post and consider the following questions (stemming from the [Excavating AI](https://www.excavating.ai/) reading.
    - What is the origin of the data?
