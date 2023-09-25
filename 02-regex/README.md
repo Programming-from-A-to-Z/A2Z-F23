@@ -66,7 +66,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Mathew -- [The Internet Movie Script Database](https://imsdb.com/) -- Not sure if it has an official API, [but these github projects may be useful](https://github.com/topics/imsdb)
 - Cindy --[Are.na API](https://dev.are.na/documentation/channels)
 - Oliver --[Artsy.net API](https://developers.artsy.net)
-- 
+- Tres --[Spotify API](https://developer.spotify.com/documentation/web-api)
 - 
 ## Add your assignment below via Pull Request
 
@@ -78,6 +78,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Athena -- [Word Interactor v1.2](https://www.notion.so/athenazhou/02-Regular-Expressions-91708407463842669e398221156765e8?pvs=4)
 - Cindy -- [Pikachu](https://rhetorical-croissant-d02.notion.site/week2-Regex-Cindy-Wang-2d92de4e68f145e89b40df0cda28b97f?pvs=4)
 - Hyungin -- [Week02_Regex](https://www.notion.so/Week02_Regex-2389aada4aa54aff88fda676026bff92?pvs=4)
+- Tres -- [RegEx Gold with Chat GPT](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=981500cd2e5f47d7b7265fd721c130b5&pm=c)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
