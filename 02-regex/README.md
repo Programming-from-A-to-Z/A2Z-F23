@@ -79,6 +79,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cindy -- [Pikachu](https://rhetorical-croissant-d02.notion.site/week2-Regex-Cindy-Wang-2d92de4e68f145e89b40df0cda28b97f?pvs=4)
 - Hyungin -- [Week02_Regex](https://www.notion.so/Week02_Regex-2389aada4aa54aff88fda676026bff92?pvs=4)
 - Tres -- [RegEx Gold with Chat GPT](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=981500cd2e5f47d7b7265fd721c130b5&pm=c)
+- Kay -- [Regex Experiments](https://kayitp.wordpress.com/2023/09/22/a-to-z-wk2-regular-expressions-experiments/)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
