@@ -72,3 +72,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Kay - [constrained writing example](https://kayitp.wordpress.com/2023/09/14/programming-a-to-z-wk1-constrained-writing-sample/)
 - Annan - [week1 Less than 5 letters](https://www.notion.so/Assignment-e3d9243581e948daaec5b7f646720b2e?pvs=4)
 - Hyungin - [Week01_Constrained Writing_N+](https://www.notion.so/Week01_Constrained-Writing_N-48c2081f8a734d21bf7f2a0718f56721?pvs=4)
+- Priyanka - [BINA48](https://www.priyankamakin.com/blog/itp-programming-a2z-constrainedalgorithmic-writing)
