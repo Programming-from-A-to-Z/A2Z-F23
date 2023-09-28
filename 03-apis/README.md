@@ -63,6 +63,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Athena - [A2Z Feud: Fast Adjectives](https://www.notion.so/athenazhou/03-APIs-2f3d3057930e4fb4b8b3b23b50182351?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
