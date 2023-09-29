@@ -68,6 +68,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cindy Wang [gibberish converter](https://rhetorical-croissant-d02.notion.site/Week3-API-Cindy-Wang-5599ea506e6d4767ad66dfc4e8b8d7e4?pvs=4)
 - Oliver - [Artsy.net Artist Search](https://yuanzichen.notion.site/Week-4-API-Homework-dc2d2d3293a84e149308d42c15a800b9?pvs=4)
 - Jane - [Chinese Calendar](https://janecheng.notion.site/Week-3-API-941958b6e7b84725b4fa8f410f7f9065?pvs=4)
+- Lan - [A2Z api practice](https://yichunlan.com/A2Z-Week-3)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
