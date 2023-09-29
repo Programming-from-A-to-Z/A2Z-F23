@@ -79,6 +79,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cindy -- [Pikachu](https://rhetorical-croissant-d02.notion.site/week2-Regex-Cindy-Wang-2d92de4e68f145e89b40df0cda28b97f?pvs=4)
 - Hyungin -- [Week02_Regex](https://www.notion.so/Week02_Regex-2389aada4aa54aff88fda676026bff92?pvs=4)
 - Kay -- [Regex Experiments](https://kayitp.wordpress.com/2023/09/22/a-to-z-wk2-regular-expressions-experiments/)
+- Mat -- [Regex Connections](https://www.virtualvector.xyz/programming-a2z-week-2/)
 - Joann -- [finder]https://www.notion.so/joannmyung/W2-HW-Email-Phone-Number-Finder-39e90cf7e4374a9ca3184f7192d8c715?pvs=4
 
 ## Emoji Key for Video Tutorials, Readings, and more
