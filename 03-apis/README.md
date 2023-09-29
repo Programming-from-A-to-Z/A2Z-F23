@@ -65,6 +65,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Name - [title](url)
 - Athena - [A2Z Feud: Fast Adjectives](https://www.notion.so/athenazhou/03-APIs-2f3d3057930e4fb4b8b3b23b50182351?pvs=4)
 - Kay - [NYT Article Search](https://kayitp.wordpress.com/2023/09/28/a-to-z-wk-3/)
+- Jane - [Chinese Calendar](https://janecheng.notion.site/Week-3-API-941958b6e7b84725b4fa8f410f7f9065?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
