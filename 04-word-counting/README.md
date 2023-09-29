@@ -1,15 +1,5 @@
 # Word Counting
 
-## Emoji Key for Video Tutorials, Readings, and more
-
-- 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
-- 🔢 This is found in a group, maybe pick just one to check out!
-- 🍿 Additional video if you have a particular interest and want to do a deeper dive.
-- 📕 Required reading! Let's make sure we all have read this.
-- 📚 Optional additional reading for a deeper dive.
-- 💻 Code examples here!
-- 🔗 Extra reference material / link
-
 ## Concordance
 
 ### Reading / Viewing
@@ -21,7 +11,7 @@
 ### Word Counting Basics
 
 - 🚨 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
-- 🚨 [Word Counting in JavaScript](https://youtu.be/unm0BLor8aE)
+- 🚨 [Word Counting (in 3 parts!)](https://thecodingtrain.com/challenges/40-word-counter)
   - 💻 [p5.js word counting sketch](https://editor.p5js.org/codingtrain/sketches/icFi8MF7N)
 - 💻 [Additional p5.js word counting visualization](https://editor.p5js.org/a2zitp/sketches/50rBhpEsT)
 - 💻 [p5.js word counting two documents visualization](https://editor.p5js.org/a2zitp/sketches/uyLWWpQKB)
@@ -75,3 +65,13 @@ Reflect on your process of word counting and consider the following questions in
 ## Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+
+## Emoji Key for Video Tutorials, Readings, and more
+
+- 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
+- 🔢 This is found in a group, maybe pick just one to check out!
+- 🍿 Additional video if you have a particular interest and want to do a deeper dive.
+- 📕 Required reading! Let's make sure we all have read this.
+- 📚 Optional additional reading for a deeper dive.
+- 💻 Code examples here!
+- 🔗 Extra reference material / link
