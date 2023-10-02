@@ -70,6 +70,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jane - [Chinese Calendar](https://janecheng.notion.site/Week-3-API-941958b6e7b84725b4fa8f410f7f9065?pvs=4)
 - Tres - [Noun Replacement Update](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=9deed7ec9ff945ffb72368619c3c59ab&pm=c)
 - Lan - [A2Z api practice](https://yichunlan.com/A2Z-Week-3)
+- Annan - [A2Z NYT API practice](https://github.com/An9Yang/NYT_title_tornado) or [p5 web editor](https://editor.p5js.org/ay2494/sketches/kslii8Y7Q)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
