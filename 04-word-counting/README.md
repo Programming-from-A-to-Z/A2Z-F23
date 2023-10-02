@@ -56,7 +56,7 @@ Choose a text or data source and count word frequencies following the examples a
 - What happens if you compare different texts according to word frequency?
 - Can you look at frequency of how words appear next to each other?
 
-Reflect on your process of word counting and consider the following questions in a blog post:
+Reflect on your process of word counting and consider the following questions:
 
 - Did you discover anything new about the text by counting words?
 - What is lost from word counting?
