@@ -66,7 +66,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Mathew -- [The Internet Movie Script Database](https://imsdb.com/) -- Not sure if it has an official API, [but these github projects may be useful](https://github.com/topics/imsdb)
 - Cindy --[Are.na API](https://dev.are.na/documentation/channels)
 - Oliver --[Artsy.net API](https://developers.artsy.net)
-- 
+- Priyanka -- [OpenWeatherMap API](https://openweathermap.org/api)
 - 
 ## Add your assignment below via Pull Request
 
@@ -82,6 +82,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Mat -- [Regex Connections](https://www.virtualvector.xyz/programming-a2z-week-2/)
 - Joann -- [finder]https://www.notion.so/joannmyung/W2-HW-Email-Phone-Number-Finder-39e90cf7e4374a9ca3184f7192d8c715?pvs=4
 - Lisa -- [week2_regex](https://lisajeong-itp.notion.site/Week-2-3febc02ffb9b4b71acbc9929ce3cad17?pvs=4)
+- Priyanka -- [MadLib Generator](https://www.priyankamakin.com/blog/itp-programming-a2z-regular-expressions)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
