@@ -20,7 +20,7 @@
 
 ## Discord API
 
-- 💻 **[2023 latest Discord Bot Example code and README steps to follow!](https://github.com/Programming-from-A-to-Z/Discord-Bot-Example)**
+- 💻 **[2023 latest Discord Bot Example code and README steps to follow!]([https://github.com/Programming-from-A-to-Z/Discord-Bot-Example](https://github.com/Programming-from-A-to-Z/Discord-Bot-Examples))**
 - 📕 [discord.js guide](https://discordjs.guide/)
 - 🍿 [2020 Discord Bot Step-by-Step Video Tutorials](https://thecodingtrain.com/learning/bots/discord/) -- Mostly out of date now! 😭😭😭 New ones recording next week!?
 
