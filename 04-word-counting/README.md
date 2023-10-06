@@ -71,7 +71,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jane - [Family Members Chat History](https://janecheng.notion.site/Week-4-Word-Counting-44216d9f41324d7598002e62177b97be?pvs=4)
 - Kay -[Language of Flowers](https://kayitp.wordpress.com/2023/10/04/a-to-z-wk-4-word-counting/)
 - Tres - [Word Frequency + Ngram Finder](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=4272e2024dd24d88b7d286966d69b1d1&pm=c)
-- Stella - [Hundred Family Surnames]([https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=4272e2024dd24d88b7d286966d69b1d1&pm=c](https://editor.p5js.org/yw6602/sketches/aBIvC36mX))
+- Stella - [Hundred Family Surnames](https://editor.p5js.org/yw6602/sketches/aBIvC36mX)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
