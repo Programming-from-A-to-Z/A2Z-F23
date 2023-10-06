@@ -69,7 +69,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Mica -- [Alquimista](https://editor.p5js.org/mll9041/sketches/5pkk7AclN)
 - Athena - [Chapter Keywords..?](https://www.notion.so/athenazhou/04-Word-Counting-892ad6497b8e4255b0e0a9edddc5d962?pvs=4)
 - Jane - [Family Members Chat History](https://janecheng.notion.site/Week-4-Word-Counting-44216d9f41324d7598002e62177b97be?pvs=4)
-
+- Tres - [Word Frequency + Ngram Finder](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=4272e2024dd24d88b7d286966d69b1d1&pm=c)
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
