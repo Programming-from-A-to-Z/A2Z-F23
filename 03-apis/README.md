@@ -71,6 +71,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Tres - [Noun Replacement Update](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=9deed7ec9ff945ffb72368619c3c59ab&pm=c)
 - Lan - [A2Z api practice](https://yichunlan.com/A2Z-Week-3)
 - Annan - [A2Z NYT API practice](https://github.com/An9Yang/NYT_title_tornado) or [p5 web editor](https://editor.p5js.org/ay2494/sketches/kslii8Y7Q)
+- Joann [NYT API] (https://joannmyung.notion.site/W2-HW-New-York-Times-article-Finder-963a372ff8b74841a0c54e3ac32eab4c)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
