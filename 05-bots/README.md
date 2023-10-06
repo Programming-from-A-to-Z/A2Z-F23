@@ -2,31 +2,27 @@
 
 ## Bot Code of Conduct
 
-- 🌈 [Draft Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct)
+- 🌈 [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct)
 - 🌈 [Bot Ethics in Practice Workshop Slides](https://docs.google.com/presentation/d/1WTBxDBD4f2xJmcFQxvvB5VZsUf8NpheyjNG4okAByyI/edit#slide=id.ga0dd3dd32b_0_228)
 
 ## Node.js
 
 - 🚨 [Workflow: console/terminal/shell](https://youtu.be/FnkkzgYuXUM)
 - 🚨 [Workflow: node.js](https://youtu.be/FjWbUK2HdCo)
-- 🍿 [What is Node.js? - Twitter Bot Tutorial](https://youtu.be/RF5_MPSNAtU)
+- 🍿 [What is Node.js? - (Part of an older Twitter Bot Tutorial](https://youtu.be/RF5_MPSNAtU)
 - 🍿 [Server-side with Node.js - Working with Data and APIs in JavaScript](https://youtu.be/wxbQP1LMZsw?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
 
 ## Twitter API
 
 - 📈 [TwitterBot Slides](https://docs.google.com/presentation/d/1rL95AggCb0EG6sBhZ47OWWgI_t7Hllqbyt4AnD2c3-4/edit?usp=sharing)
-- 💻 [2021 Twitter Bot node.js example code](https://github.com/Programming-from-A-to-Z/Twitter-Bots-F21)
+- 💻 [Old 2021 twitter Bot node.js example code](https://github.com/Programming-from-A-to-Z/Twitter-Bots-F21)
   - [node-twitter-api-v2 package](https://github.com/PLhery/node-twitter-api-v2)
-- 📚 [2016 Notes on Twitter Bots](http://shiffman.net/a2z/twitter-bots/)
-  - 📚 [Notes on deploy to heroku](http://shiffman.net/a2z/bot-heroku/)
-  - 📚 [Notes on deploy to amazon ec2](http://shiffman.net/a2z/bot-ec2/)
-- 📕 [Twitter: Automation rules and best practices](https://support.twitter.com/articles/76915)
 
 ## Discord API
 
-- 💻 **[2021 latest Discord Bot Example code and README steps to follow!](https://github.com/Programming-from-A-to-Z/Discord-Bots-F21)**
+- 💻 **[2023 latest Discord Bot Example code and README steps to follow!](https://github.com/Programming-from-A-to-Z/Discord-Bot-Example)**
 - 📕 [discord.js guide](https://discordjs.guide/)
-- 🍿 [2020 Discord Bot Step-by-Step Video Tutorials](https://thecodingtrain.com/learning/bots/discord/) -- Mostly out of date now! 😭😭😭
+- 🍿 [2020 Discord Bot Step-by-Step Video Tutorials](https://thecodingtrain.com/learning/bots/discord/) -- Mostly out of date now! 😭😭😭 New ones recording next week!?
 
 ## Reading
 
@@ -40,21 +36,18 @@
 ## ChatBots
 
 - 📈 [ChatBot Slides](https://docs.google.com/presentation/d/1NCeg8WJnH2RFU-VTMpYCffPGHkFRDAoED4LwK6affvI/edit?usp=sharing)
-
-### RiveScript
-
 - 🔗 [RiveScript](https://www.rivescript.com/)
 - 🚨 [RiveScript video tutorial](https://www.youtube.com/watch?v=wf8w1BJb9Xc)
 - 🍿 [RiveScript + p5.js video tutorial](https://www.youtube.com/watch?v=zGe1m_bLOFk)
 - 💻 [RiveScript p5.js Number Guessing Chatbot](https://editor.p5js.org/codingtrain/sketches/_XqFRhtaK)
 
-## Bot Project, Due Wednesday October 20
+## Bot Project, Due Friday, October 20
 
-Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/) and [Twitter](http://twitter.com/) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
+Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/) and TBD but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
-Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots, embedded tweets,etc. Reflect on the [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) and what ethical questions you considered as part of your process and documentation.
+Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots,etc. Reflect on the [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct/blob/main/README.md) and what ethical questions you considered as part of your process and documentation.
 
-Prepare a 5 minute presentation on your bot on Wednesday, Oct 20th.
+Prepare a 5 minute presentation on your bot on Friday, Oct 20th.
 
 ## Add your assignment below via Pull Request
 
