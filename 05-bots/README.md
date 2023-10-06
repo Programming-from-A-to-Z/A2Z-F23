@@ -37,6 +37,7 @@
 
 - 📈 [ChatBot Slides](https://docs.google.com/presentation/d/1NCeg8WJnH2RFU-VTMpYCffPGHkFRDAoED4LwK6affvI/edit?usp=sharing)
 - 🔗 [RiveScript](https://www.rivescript.com/)
+- 💻 [RiveScript example: Say Banana](https://editor.p5js.org/a2zitp/sketches/wMo5oiyVe)
 - 🚨 [RiveScript video tutorial](https://www.youtube.com/watch?v=wf8w1BJb9Xc)
 - 🍿 [RiveScript + p5.js video tutorial](https://www.youtube.com/watch?v=zGe1m_bLOFk)
 - 💻 [RiveScript p5.js Number Guessing Chatbot](https://editor.p5js.org/codingtrain/sketches/_XqFRhtaK)
