@@ -69,6 +69,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Mica -- [Alquimista](https://editor.p5js.org/mll9041/sketches/5pkk7AclN)
 - Athena - [Chapter Keywords..?](https://www.notion.so/athenazhou/04-Word-Counting-892ad6497b8e4255b0e0a9edddc5d962?pvs=4)
 - Jane - [Family Members Chat History](https://janecheng.notion.site/Week-4-Word-Counting-44216d9f41324d7598002e62177b97be?pvs=4)
+- Kay -[Language of Flowers](https://kayitp.wordpress.com/2023/10/04/a-to-z-wk-4-word-counting/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
