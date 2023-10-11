@@ -72,6 +72,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lan - [A2Z api practice](https://yichunlan.com/A2Z-Week-3)
 - Annan - [A2Z NYT API practice](https://github.com/An9Yang/NYT_title_tornado) or [p5 web editor](https://editor.p5js.org/ay2494/sketches/kslii8Y7Q)
 - Joann [NYT API] (https://joannmyung.notion.site/W2-HW-New-York-Times-article-Finder-963a372ff8b74841a0c54e3ac32eab4c)
+- Priyanka [You look fetching!](https://www.priyankamakin.com/blog/itp-programming-from-a2z-apis-and-libraries)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
