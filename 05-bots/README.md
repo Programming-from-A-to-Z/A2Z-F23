@@ -56,6 +56,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [project title](url)
 - Lan - [ Mountain ⛰️⛰️ ](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week05/)
+- Lisa - [Kitty bot🐱] (https://www.notion.so/lisajeong-itp/Bot-dbdbc1ffc2bc44ae946f03fcf605339c?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
