@@ -73,6 +73,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Tres - [Word Frequency + Ngram Finder](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=4272e2024dd24d88b7d286966d69b1d1&pm=c)
 - Stella - [Hundred Family Surnames](https://editor.p5js.org/yw6602/sketches/aBIvC36mX)
 - Priyanka - [Books](https://www.priyankamakin.com/blog/itp-programming-a2z-word-counting)
+- Lan - [Chinese Words Frequency](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week04/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
