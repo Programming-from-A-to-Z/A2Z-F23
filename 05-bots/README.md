@@ -55,8 +55,8 @@ Prepare a 5 minute presentation on your bot on Friday, Oct 20th.
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [project title](url)
-- Lan - [ Mountain ⛰️⛰️ ](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week05/)
-- Lisa - [Kitty bot🐱] (https://www.notion.so/lisajeong-itp/Bot-dbdbc1ffc2bc44ae946f03fcf605339c?pvs=4)
+- Lan - [Mountain ⛰️⛰️](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week05/)
+- Lisa - [Kitty bot🐱](https://www.notion.so/lisajeong-itp/Bot-dbdbc1ffc2bc44ae946f03fcf605339c?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
