@@ -60,6 +60,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lan - [Mountain ⛰️⛰️](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week05/)
 - Lisa - [Kitty bot🐱](https://www.notion.so/lisajeong-itp/Bot-dbdbc1ffc2bc44ae946f03fcf605339c?pvs=4)
 - Jane - [Sensitive Bot](https://www.notion.so/janecheng/Week-6-Bots-II-24b0c0dd629148a49f85750ecf8dfe50)
+- Daniel - [DND Bot](https://rough-buffer-c0b.notion.site/Week-5-6-Discord-Bot-5375895b4d5f4d0eb69ab4e5e360f7c4?pvs=4)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
