@@ -61,6 +61,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lisa - [Kitty bot🐱](https://www.notion.so/lisajeong-itp/Bot-dbdbc1ffc2bc44ae946f03fcf605339c?pvs=4)
 - Jane - [Sensitive Bot](https://www.notion.so/janecheng/Week-6-Bots-II-24b0c0dd629148a49f85750ecf8dfe50)
 - Daniel - [DND Bot](https://rough-buffer-c0b.notion.site/Week-5-6-Discord-Bot-5375895b4d5f4d0eb69ab4e5e360f7c4?pvs=4)
+- Joann - [Hearten Bot](https://joannmyung.notion.site/Hearten-Bot-midterm-39f4f8b7428f40c185b7232cc1d966f0)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
