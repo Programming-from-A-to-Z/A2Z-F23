@@ -30,19 +30,19 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 7 - [Bot Experiments Sharing](05-bots#add-your-assignment-below-via-pull-request), Oct 20
 
-### Week 8 - [Text Generation: Markov Chains](06-markov), Oct 27
+### Week 8 - [Markov Chains and Context-Free Grammars](06-markov-cfg), Oct 27
 
-### Week 9 - [Text Generation: Context-Free Grammars](07-cfg), Nov 3
+### Week 9 - [ML: Transformer Models](07-transformers), **_CLASS RESCHEDULED_**
 
-### Week 10 - [Text Generation: Machine Learning](08-ml), Nov 10
+### Week 10 - [ML: Embeddings](08-embeddings), Nov 10
 
-### Week 11 - [Final Project Proposals](final) + [more ML](08-ml), Nov 17
+### Week 11 - More ML? TBD, Nov 17
 
-### Week 12 - [Final Project Proposals](final) + [more node.js API](08-ml), Dec 1
+### Week 12 - [Final Project Proposals](final), Dec 1
 
-### Week 13 - Final Project in Progress, Dec 8
+### Week 13 - [Final Project in Progress](final), Dec 8
 
-### Week 14 - Final Project Presentations, Dec 15
+### Week 14 - [Final Project Presentations](final), Dec 15
 
 ## Evaluation
 
