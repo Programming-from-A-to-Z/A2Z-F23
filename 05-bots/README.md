@@ -15,8 +15,8 @@
 ## Twitter API
 
 - 📈 [TwitterBot Slides](https://docs.google.com/presentation/d/1rL95AggCb0EG6sBhZ47OWWgI_t7Hllqbyt4AnD2c3-4/edit?usp=sharing)
-- 💻 [Twitter Example Code (tested in 2023, features limited, see README for more)][https://github.com/Programming-from-A-to-Z/Twitter-Bots-Maybe]
-  - [node-twitter-api-v2 package](https://github.com/PLhery/node-twitter-api-v2)
+- 💻 [Twitter Example Code (tested in 2023, features limited, see README for more)](https://github.com/Programming-from-A-to-Z/Twitter-Bots-Maybe)
+- [node-twitter-api-v2 package](https://github.com/PLhery/node-twitter-api-v2)
 
 ## Discord API
 
