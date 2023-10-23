@@ -80,7 +80,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Hyungin -- [Week02_Regex](https://www.notion.so/Week02_Regex-2389aada4aa54aff88fda676026bff92?pvs=4)
 - Kay -- [Regex Experiments](https://kayitp.wordpress.com/2023/09/22/a-to-z-wk2-regular-expressions-experiments/)
 - Mat -- [Regex Connections](https://www.virtualvector.xyz/programming-a2z-week-2/)
-- Joann -- [finder]https://www.notion.so/joannmyung/W2-HW-Email-Phone-Number-Finder-39e90cf7e4374a9ca3184f7192d8c715?pvs=4
+- Joann -- [finder](https://www.notion.so/joannmyung/W2-HW-Email-Phone-Number-Finder-39e90cf7e4374a9ca3184f7192d8c715?pvs=4)
 - Lisa -- [week2_regex](https://lisajeong-itp.notion.site/Week-2-3febc02ffb9b4b71acbc9929ce3cad17?pvs=4)
 - Priyanka -- [MadLib Generator](https://www.priyankamakin.com/blog/itp-programming-a2z-regular-expressions)
 
