@@ -2,10 +2,6 @@
 
 ## Add a link to your proposal here
 
-### November 17
-
-### November 24
-
 ## Proposal Feedback TLDR:
 
 1. Is the idea clear? Is there a clearly stated goal? What do you understand / not understand?
