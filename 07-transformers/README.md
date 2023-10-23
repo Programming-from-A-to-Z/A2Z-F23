@@ -21,9 +21,12 @@
 
 ## Examples and Implementations
 
-- 💻 [Replicate](https://replicate.com/) and [Hugging Face](https://huggingface.co/)
-  - 🍿 [node.js + express video](https://youtu.be/wxbQP1LMZsw)
-  - 🍿 [POST request video](https://youtu.be/Kw5tC5nQMRY)
+- More node.js
+  - 🍿 [Server Side / Express with node.js](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/1-server-side-with-node-js)
+  - 🍿 [HTTP "POST" request with fetch](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/3-http-post-request)
+- [Replicate Code Examples and Resources(https://github.com/Programming-from-A-to-Z/Replicate-Examples)
+- OpenAI
+- Hugging Face
 
 ## Assignment
 
