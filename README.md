@@ -32,11 +32,13 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 8 - [Markov Chains and Context-Free Grammars](06-markov-cfg), Oct 27
 
-### Week 9 - [ML: Transformer Models](07-transformers), **_CLASS RESCHEDULED_**
+### **_November 3: NO CLASS_** (info about rescheduling in email)
 
-### Week 10 - [ML: Embeddings](08-embeddings), Nov 10
+### Week 9 - [ML: Transformer Models](07-transformers), Nov 10
 
-### Week 11 - More ML? TBD, Nov 17
+### Week 10 - [ML: Embeddings](08-embeddings), Nov 17
+
+### Week 11 - More Machine Learning Makeup Class Date TBD
 
 ### Week 12 - [Final Project Proposals](final), Dec 1
 
