@@ -1,5 +1,7 @@
 # Markov Chains and Context Free Grammars
 
+## [Markov and CFG slides](https://docs.google.com/presentation/d/1M8zwy7yKA7G6EzSYS8qnYRNuQ8KJkoo-M5YG6OM4vKk/edit?usp=sharing)
+
 ## Markov Chains
 
 - 📕 [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/) by Victor Powell and Lewis Lehe
@@ -21,7 +23,7 @@
 - 🚨 [CFG with Tracery](https://youtu.be/C3EwsSNJeOE?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch), [Tracery by Kate Compton](http://tracery.io/)
 - 📕 [Tracery: An Author-Focused Generative Text Tool](https://www.researchgate.net/profile/Quinn_Kybartas/publication/300137911_Tracery_An_Author-Focused_Generative_Text_Tool/links/5ed3c8c14585152945220c14/Tracery-An-Author-Focused-Generative-Text-Tool.pdf)
 - 📚 [Context-Free Grammars by Allison Parrish](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
-- 🍿 [CFG Codig Challenge "from scratch" with p5.js](https://thecodingtrain.com/challenges/43-context-free-grammar)
+- 🍿 [CFG Coding Challenge "from scratch" with p5.js](https://thecodingtrain.com/challenges/43-context-free-grammar)
 - 🍿 Additional: [Intro to CFG](https://youtu.be/Rhqk9HYiB7Q), [CFG with RiTa](https://youtu.be/VaAoIaZ3YKs)
 - 💻 [CFG p5.js code examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)
 - 💻 [RiGrammer](https://rednoise.org/rita/reference/RiTa/grammar/index.html) from RiTa library, [RiGrammar example](https://editor.p5js.org/rita-examples/sketches/7vWYB1HEn)
@@ -39,11 +41,12 @@
 ## CFG Visual Art
 
 - 📚 [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf)
-- 📚 [Nature of Code: Fractals](https://natureofcode.com/book/chapter-8-fractals/)
+- 💻 [Nature of Code L-System Chapter](https://nature-of-code-2nd-edition.netlify.app/fractals/#l-systems)
 - 🍿 [L-System Coding Challenge Video](https://thecodingtrain.com/challenges/16-l-system-fractal-trees)
-- 💻 [L-System code](https://nature-of-code-2nd-edition.netlify.app/fractals/#l-systems)
 
 ## Reading
+
+These readings are background material to help you think about text data for the upcoming weeks where I plan to move towards using ML models. These readings are from several years ago, but I believe the themes and questions raised are even more relevant today in the landscape of large language models.
 
 - 📕 [What Can Machine Learning Teach Us About Ourselves?](https://medium.com/processing-foundation/what-can-machine-learning-teach-us-about-ourselves-65b268431890), Interview with Emily Martinez, ml5.js Fellow 2020
 - 📕 [The Subtext of a Black Corpus](https://medium.com/ml5js/the-subtext-of-a-black-corpus-4440de02eb32), In conversation with ITP research fellows Nikita Huggins & Ayodamola Okunseinde by Ashley Lewis
@@ -69,7 +72,7 @@ It is not required to write any new code for this assignment, however I'll inclu
 
 ### Context-Free Grammars
 
-Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa), try [RiGrammer](https://rednoise.org/rita/reference/RiTa/grammar/index.html) from the RiTa library, use [ContextFree GenGen](http://cfgg.decontextualize.com) with a Google Sheet (_not working_ 😢), or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck).
+Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa), or try [RiGrammer](https://rednoise.org/rita/reference/RiTa/grammar/index.html) from the RiTa library.
 
 Getting results from a context-free-grammar can be tricky. Short and sweet, highly structured ideas tend to work well. For example.
 
