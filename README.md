@@ -38,7 +38,7 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 10 - [ML: Embeddings](08-embeddings), Nov 17
 
-### Week 11 - More Machine Learning Makeup, Wednesday, Nov 29 3:20pm-5:50pm
+### Week 11 - More Machine Learning! Wednesday, Nov 29 3:20pm-5:50pm (classroom TBD)
 
 ### Week 12 - [Final Project Proposals](final), Dec 1
 
