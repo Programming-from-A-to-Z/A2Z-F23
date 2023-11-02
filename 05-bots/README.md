@@ -7,8 +7,8 @@
 
 ## Node.js
 
-- 🚨 [Workflow: console/terminal/shell](https://youtu.be/FnkkzgYuXUM)
-- 🚨 [Workflow: node.js](https://youtu.be/FjWbUK2HdCo)
+- 🚨 [Workflow: console/terminal/node.js/shell](https://youtu.be/46WOuOrMwTQ)
+- 📝 [Workflow notes and settings](https://github.com/CodingTrain/Discord-Bot-Examples/wiki/Workflow:-Terminal,-Shell,-Node,-VSCode)
 - 🍿 [What is Node.js? - (Part of an older Twitter Bot Tutorial](https://youtu.be/RF5_MPSNAtU)
 - 🍿 [Server-side with Node.js - Working with Data and APIs in JavaScript](https://youtu.be/wxbQP1LMZsw?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
 
