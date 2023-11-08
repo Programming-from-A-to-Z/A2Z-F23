@@ -63,6 +63,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Daniel - [DND Bot](https://rough-buffer-c0b.notion.site/Week-5-6-Discord-Bot-5375895b4d5f4d0eb69ab4e5e360f7c4?pvs=4)
 - Joann - [Hearten Bot](https://joannmyung.notion.site/Hearten-Bot-midterm-39f4f8b7428f40c185b7232cc1d966f0)
 - Kay - [HalloweenBot](https://kayitp.wordpress.com/2023/10/27/bots-a-to-z-wks-5-6/)
+- Priyanka - [Scream Machine](https://www.priyankamakin.com/blog/itp-programming-a2z-chatbots)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
