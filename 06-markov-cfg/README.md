@@ -91,6 +91,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Name - [post title](post url)
 - Athena - [06 Markov/CFG](https://www.notion.so/athenazhou/06-Markov-Chains-bd1e96a03e604a7f9a000c6bba54e805?pvs=4)
 - Cindy Wang -[Markov and CFG](https://rhetorical-croissant-d02.notion.site/Cindy-Wang-Markov-cfg-e18b2bbed8784b6998735398f5196e7f?pvs=4)
+- Kay - [Scream Movie Plot Generator](https://kayitp.wordpress.com/2023/11/09/markov-chains-scream-movie-plot-generator/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
