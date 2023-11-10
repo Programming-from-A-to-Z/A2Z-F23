@@ -95,6 +95,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Kay - [Scream Movie Plot Generator](https://kayitp.wordpress.com/2023/11/09/markov-chains-scream-movie-plot-generator/)
 - Mathew - [Vexations + Markov](https://www.virtualvector.xyz/programming-a2z-week-9-3/)
 - Lan - [Mix News](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week06/Markov/) / [Taiwan bubble Tea Menu](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week06/RitaGrammer/)
+- Jane - [Anime Generator](https://www.notion.so/janecheng/Week-8-Markov-Chains-CFGs-1cfa2b1fd5be46f185c4c9f9208ff21b)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
