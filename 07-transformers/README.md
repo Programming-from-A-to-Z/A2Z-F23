@@ -1,6 +1,6 @@
 # Language Models
 
-- [transformer slides](https://docs.google.com/presentation/d/1I3uq2EY8Kgl_NIPJ2PxOvxhQvsU-QXaph7QRilnzLCg/edit?usp=sharing)
+- [LLM / transformer slides](https://docs.google.com/presentation/d/1I3uq2EY8Kgl_NIPJ2PxOvxhQvsU-QXaph7QRilnzLCg/edit?usp=sharing)
 
 ## Sequential Data and Recurrent Neural Networks
 
@@ -18,10 +18,25 @@
 
 - 📚 [Watch an A.I. Learn to Write by Reading Nothing but **\_\_\_\_**](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html) by Aatish Bhatia
 - 📚 [Attention is All You Need](https://arxiv.org/abs/1706.03762) - Original "Transformer" paper from 2017, also [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) -- Attention paper from 2014
-- 📚 [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
 - 📚 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - 📚 [What Are Transformer Models and How Do They Work?](https://docs.cohere.com/docs/transformer-models)
+
+## LLM Training
+
+- 🦙 [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
+- 🦙 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
+- 🦜 [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
 - 🔍 [Introducing The Foundation Model Transparency Index](https://hai.stanford.edu/news/introducing-foundation-model-transparency-index)
+
+### Datasets for LLMs
+
+- 🔢 [Common Crawl](https://commoncrawl.org/)
+- 🔢 [The Pile](https://pile.eleuther.ai/)
+
+### Climate Impact
+
+- 🌏 [The Internet’s Next Great Power Suck](https://www.theatlantic.com/technology/archive/2023/08/ai-carbon-emissions-data-centers/675094/)
+- ⚡️ [Carbon Emissions and Large Neural Network Training ](https://arxiv.org/ftp/arxiv/papers/2104/2104.10350.pdf)
 
 ## Examples and Implementations
 
