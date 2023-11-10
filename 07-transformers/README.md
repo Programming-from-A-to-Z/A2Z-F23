@@ -21,7 +21,7 @@
 - 📚 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - 📚 [What Are Transformer Models and How Do They Work?](https://docs.cohere.com/docs/transformer-models)
 
-## Training, Data, and Climate Impact
+## LLM Training
 
 - 🦙 [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
 - 🦙 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
