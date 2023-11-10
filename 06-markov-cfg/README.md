@@ -93,6 +93,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Cindy Wang -[Markov and CFG](https://rhetorical-croissant-d02.notion.site/Cindy-Wang-Markov-cfg-e18b2bbed8784b6998735398f5196e7f?pvs=4)
 - Mica -[WikiHow Generator](https://editor.p5js.org/mll9041/sketches/5vK9ScF2f)
 - Kay - [Scream Movie Plot Generator](https://kayitp.wordpress.com/2023/11/09/markov-chains-scream-movie-plot-generator/)
+- Lan - [Mix News](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week06/Markov/) / [Taiwan bubble Tea Menu](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week06/RitaGrammer/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
