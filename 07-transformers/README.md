@@ -45,7 +45,7 @@
   - 🎥 [HTTP "POST" request with fetch](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/3-http-post-request)
 - 🕸 [Transformer.js Models Running in Browser](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
 - 💬 [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
-- 💬 [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
+- 💬 [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate)
 - 💻 [Misc Models via Replicate](https://github.com/Programming-from-A-to-Z/Replicate-Examples)
 - 🦙 [Ollama: Run Llama locally](https://ollama.ai/)
 
