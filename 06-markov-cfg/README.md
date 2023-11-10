@@ -94,7 +94,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Mica -[WikiHow Generator](https://editor.p5js.org/mll9041/sketches/5vK9ScF2f)
 - Kay - [Scream Movie Plot Generator](https://kayitp.wordpress.com/2023/11/09/markov-chains-scream-movie-plot-generator/)
 - Mathew - [Vexations + Markov](https://www.virtualvector.xyz/programming-a2z-week-9-3/)
-- Lan - [Mix News](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week06/Markov/) / [Taiwan bubble Tea Menu](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week06/RitaGrammer/)
+- Lan - [Mix News](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week08/Markov/) / [Taiwan bubble Tea Menu](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week08/RitaGrammer/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
