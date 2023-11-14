@@ -21,7 +21,7 @@
 - 📚 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - 📚 [What Are Transformer Models and How Do They Work?](https://docs.cohere.com/docs/transformer-models)
 
-## Training, Data, and Climate Impact
+## LLM Training
 
 - 🦙 [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971.pdf)
 - 🦙 [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
@@ -46,13 +46,20 @@
 - 🎨 [Simpler p5.js + Replicate web app](https://github.com/Programming-from-A-to-Z/Replicate-p5js)
 - 🕸 [Transformer.js Models Running in Browser](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
 - 💬 [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
-- 💬 [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
+- 💬 [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate)
 - 💻 [Misc Models via Replicate](https://github.com/Programming-from-A-to-Z/Replicate-Examples)
 - 🦙 [Ollama: Run Llama locally](https://ollama.ai/)
 
 ## Assignment
 
-- To come!
+- Read [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922) and review the [The Foundation Model Transparency Index](https://hai.stanford.edu/news/introducing-foundation-model-transparency-index). What questions arise for you about using LLMs in your work at ITP?
+- Experiment with prompting a large language model in some way other than the ChatGPT interface and document the results in a blog post. Consider how working with an LLM compares to generating text from the previous exerc ise working with markov chains and context free grammars. Here are some options:
+    - Run the [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate) example or [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone) and adjust the prompts, interaction, or visual design of the examples. There is also a new [simpler Replicate + p5.js example](https://github.com/Programming-from-A-to-Z/Replicate-p5js) you can try.
+    - Sign up for the [OpenAI API](https://openai.com/blog/openai-api) and [try creating a "custom assistant" with a system prompt and knowledge base](https://platform.openai.com/assistants).
+    - If you have [the GPT Editor](https://chat.openai.com/gpts/editor) enabled in your OpenAI account, try making a custom chatbot.
+    - Try running Llama locall with [Ollama](https://ollama.ai/)
+    - Can you connect an LLM to a Discord Bot!?!
+    - Invent your own idea!
 
 ## Add your assignment below via Pull Request
 
