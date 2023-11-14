@@ -57,6 +57,7 @@
     - Sign up for the [OpenAI API](https://openai.com/blog/openai-api) and [try creating a "custom assistant" with a system prompt and knowledge base](https://platform.openai.com/assistants).
     - If you have [the GPT Editor](https://chat.openai.com/gpts/editor) enabled in your OpenAI account, try making a custom chatbot.
     - Try running Llama locall with [Ollama](https://ollama.ai/)
+    - Can you connect an LLM to a Discord Bot!?!
     - Invent your own idea!
 
 ## Add your assignment below via Pull Request
