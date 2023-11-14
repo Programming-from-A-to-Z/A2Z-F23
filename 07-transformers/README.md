@@ -43,6 +43,7 @@
 - More node.js
   - 🎥 [Server Side / Express with node.js](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/1-server-side-with-node-js)
   - 🎥 [HTTP "POST" request with fetch](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/3-http-post-request)
+- 🎨 [Simpler p5.js + Replicate web app](https://github.com/Programming-from-A-to-Z/Replicate-p5js)
 - 🕸 [Transformer.js Models Running in Browser](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
 - 💬 [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
 - 💬 [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
