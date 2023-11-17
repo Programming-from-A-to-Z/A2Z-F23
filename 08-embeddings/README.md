@@ -1,6 +1,6 @@
-# Machine Learning
+# Embeddings
 
-## Universal Sentence Encoder and Embeddings
+## Word Vectors and the Universal Sentence Encoder
 
 - 📕 [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 - 🍿 [What is word2vec](https://youtu.be/LSS_bos_TPI), [Color Vectors](https://youtu.be/mI23bDF0VRI)
@@ -11,7 +11,17 @@
 
 ## Language Model Embeddings
 
+- [Embeddings Projector](https://projector.tensorflow.org/) and [Visualizing High Dimensional Space](https://youtu.be/wvsE8jm1GzE)
+- [Embeddings tutorial](https://docs.cohere.com/docs/text-embeddings) from Cohere
+- [Using open-source models for faster and cheaper text embeddings](https://replicate.com/blog/run-bge-embedding-models)
+
+## Similarity
+
+- [Similarity between words and sentences](https://docs.cohere.com/docs/similarity-between-words-and-sentences)
+
 ## Retrieval Augmented Generation (RAG)
+
+- [How to use retrieval augmented generation](https://replicate.com/blog/how-to-use-rag-with-chromadb-and-mistral-7b-instruct)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
