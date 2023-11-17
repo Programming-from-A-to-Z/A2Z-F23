@@ -1,6 +1,10 @@
 # Final Project Proposals
 
-## Add a link to your proposal here
+## Schedule and Documentation Links:
+
+### Wednesday,Nov 29 (3:20-5:50pm)
+
+### Friday, Dec 1 (9:30-12pm)
 
 ## Proposal Feedback TLDR:
 
