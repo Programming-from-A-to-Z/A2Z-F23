@@ -6,7 +6,7 @@
 
 - 📕 [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/) by Victor Powell and Lewis Lehe
 - 🚨 [Markov Chain Coding Challenge](https://thecodingtrain.com/challenges/42-markov-chain-name-generator)
-- 💻 [Markov Chain p5.js code examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE)
+- 💻 [Markov Chain p5.js code examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE), [quick note about `getURLParams()`](https://github.com/Programming-from-A-to-Z/A2Z-F23/wiki/Using-URL-Query-String)
 - 💻 [Markov Chain node.js example](https://github.com/Programming-from-A-to-Z/Markov-Node)
 - 📚 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - 📚 [2016 Markov Chains notes from A2Z](https://shiffman-archive.netlify.app/a2z/markov/)
