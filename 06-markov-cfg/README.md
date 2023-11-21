@@ -99,6 +99,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lan - [Mix News](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week08/Markov/) / [Taiwan bubble Tea Menu](https://yclanlan.github.io/2023-Fall-Programming-A2Z/Week08/RitaGrammar/)
 - Daniel Wai - [CFG & L-Systems](https://rough-buffer-c0b.notion.site/Week-7-CFG-and-Markov-1defe70395ef480986ec72359d7a4345?pvs=4)
 - Joann – [Emoji Markov](https://joannmyung.notion.site/07-Emoji-Markov-acfb1756eff6483bb2c303afa5e51a80)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
