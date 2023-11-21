@@ -4,7 +4,27 @@
 
 ### Wednesday,Nov 29 (3:20-5:50pm)
 
+- Lan
+- Jane
+- Tres
+- Mathew
+- Joann
+- Daniel
+- Athena
+- Annan
+- Hyungin
+
 ### Friday, Dec 1 (9:30-12pm)
+
+- Lisa
+- Mica
+- Priyanka
+- Kay
+- Cindy
+- Stella
+- Oliver
+- Lisha
+- Yizhi
 
 ## Proposal Feedback TLDR:
 
