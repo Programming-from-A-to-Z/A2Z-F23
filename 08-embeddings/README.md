@@ -31,4 +31,4 @@
 
 ## Assignment
 
-- 🎨 [Prepare to present a final project proposal.](final/proposals/README.md)
+- 🎨 [Prepare to present a final project proposal](/final/proposals.md).
