@@ -6,7 +6,7 @@
 
 - Lan
 - Jane
-- Tres
+- Tres proposal: (https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=998cc55264ff4986b6818d7085eecbfa&pm=c)
 - Mathew
 - Joann
 - Daniel
