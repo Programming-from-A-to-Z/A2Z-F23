@@ -10,7 +10,7 @@
 - Mathew
 - Joann
 - Daniel
-- Athena
+- Athena - [Proposal: How Are You?](https://www.notion.so/athenazhou/Final-Project-f6226ba134534e43a7258c1604d04fe0?pvs=4)
 - Annan
 - Hyungin
 
