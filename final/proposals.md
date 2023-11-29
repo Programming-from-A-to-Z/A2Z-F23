@@ -10,7 +10,7 @@
 - Joann
 - Daniel
 - Athena - [Proposal: How Are You?](https://www.notion.so/athenazhou/Final-Project-f6226ba134534e43a7258c1604d04fe0?pvs=4)
-- Annan
+- Annan - [Party but limited](https://www.notion.so/Final-Project-Proposal-22e8d3bee9f04a9284d07ad96357d89c?pvs=4)
 - Hyungin
 
 ### Friday, Dec 1 (9:30-12pm)
