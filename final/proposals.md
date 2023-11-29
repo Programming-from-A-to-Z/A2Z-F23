@@ -5,7 +5,7 @@
 ### Wednesday,Nov 29 (3:20-5:50pm)
 
 - Lan
-- Jane
+- [Jane](https://janecheng.notion.site/Week-10-ML-Embeddings-ca9ee91e95b9494da05da24ab930b74c?pvs=4)
 - [Tres proposal](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=998cc55264ff4986b6818d7085eecbfa&pm=c)
 - Joann
 - Daniel
