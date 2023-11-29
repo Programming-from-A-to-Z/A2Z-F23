@@ -7,7 +7,7 @@
 - Lan
 - Jane
 - [Tres proposal](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=998cc55264ff4986b6818d7085eecbfa&pm=c)
-- Joann
+- Joann (https://joannmyung.notion.site/Final-E-Cycle-810c0c59c29b4c128c56acf0cb25f802?pvs=4)
 - Daniel
 - Athena - [Proposal: How Are You?](https://www.notion.so/athenazhou/Final-Project-f6226ba134534e43a7258c1604d04fe0?pvs=4)
 - Annan
