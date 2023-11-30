@@ -7,8 +7,8 @@
 - Lan
 - [Jane](https://janecheng.notion.site/Week-10-ML-Embeddings-ca9ee91e95b9494da05da24ab930b74c?pvs=4)
 - [Tres proposal](https://www.notion.so/Portfolio-15449bb0e7bc45669086b37441295a4f?p=998cc55264ff4986b6818d7085eecbfa&pm=c)
-- Joann (https://joannmyung.notion.site/Final-E-Cycle-810c0c59c29b4c128c56acf0cb25f802?pvs=4)
-- Daniel(https://rough-buffer-c0b.notion.site/Final-Project-37c73393f270429ea38e20f627348a77?pvs=4)
+- [Joann](https://joannmyung.notion.site/Final-E-Cycle-810c0c59c29b4c128c56acf0cb25f802?pvs=4)
+- [Daniel](https://rough-buffer-c0b.notion.site/Final-Project-37c73393f270429ea38e20f627348a77?pvs=4)
 - Athena - [Proposal: How Are You?](https://www.notion.so/athenazhou/Final-Project-f6226ba134534e43a7258c1604d04fe0?pvs=4)
 - Annan - [Party but limited](https://www.notion.so/Final-Project-Proposal-22e8d3bee9f04a9284d07ad96357d89c?pvs=4)
 - Hyungin
