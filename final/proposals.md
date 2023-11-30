@@ -11,7 +11,6 @@
 - [Daniel](https://rough-buffer-c0b.notion.site/Final-Project-37c73393f270429ea38e20f627348a77?pvs=4)
 - Athena - [Proposal: How Are You?](https://www.notion.so/athenazhou/Final-Project-f6226ba134534e43a7258c1604d04fe0?pvs=4)
 - Annan - [Party but limited](https://www.notion.so/Final-Project-Proposal-22e8d3bee9f04a9284d07ad96357d89c?pvs=4)
-- Hyungin
 
 ### Friday, Dec 1 (9:30-12pm)
 - Mathew
@@ -24,6 +23,7 @@
 - Oliver
 - Lisha
 - Yizhi
+- Hyungin
 
 ## Proposal Feedback TLDR:
 
