@@ -14,7 +14,7 @@
 
 ### Friday, Dec 1 (9:30-12pm)
 - Mathew
-- Lisa
+- [Lisa](https://lisajeong-itp.notion.site/Final-Project-2ca71b1d94734886a9e96a40dcb8ef35?pvs=4)
 - Mica
 - Priyanka
 - Kay
