@@ -23,7 +23,7 @@
 - Oliver
 - Lisha
 - Yizhi
-- Hyungin
+- Hyungin - [Hyung In](https://expensive-binder-72c.notion.site/Final_plan-0cc07808891d4a879934d6a5199f3575?pvs=4)
 
 ## Proposal Feedback TLDR:
 
