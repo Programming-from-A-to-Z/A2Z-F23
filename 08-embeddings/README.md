@@ -10,7 +10,7 @@
 ## Embeddings
 
 - 🎨 [Embeddings Projector](https://projector.tensorflow.org/) and [Visualizing High Dimensional Space](https://youtu.be/wvsE8jm1GzE), [Atlas](https://atlas.nomic.ai/)
-- 📝 [Embeddings tutorial](https://docs.cohere.com/docs/text-embeddings) from Cohvscode-file://vscode-app/Applications/Visual%2520Studio%2520Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.htmlere
+- 📝 [Embeddings tutorial](https://docs.cohere.com/docs/text-embeddings) from Cohere
 - 📚 [What are embeddings?](https://vickiboykis.com/what_are_embeddings/) by Vicki Boykis
 - 📚 [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 - 📚 [Using open-source models for faster and cheaper text embeddings](https://replicate.com/blog/run-bge-embedding-models)
