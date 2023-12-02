@@ -16,7 +16,7 @@
 - Mathew
 - [Lisa](https://lisajeong-itp.notion.site/Final-Project-2ca71b1d94734886a9e96a40dcb8ef35?pvs=4)
 - Mica
-- Priyanka
+- [Priyanka](https://www.priyankamakin.com/blog/itp-programming-a2z-transformers-and-final-project-ideas)
 - Kay
 - Cindy
 - Stella
