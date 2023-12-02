@@ -38,17 +38,32 @@
 - 🌏 [The Internet’s Next Great Power Suck](https://www.theatlantic.com/technology/archive/2023/08/ai-carbon-emissions-data-centers/675094/)
 - ⚡️ [Carbon Emissions and Large Neural Network Training ](https://arxiv.org/ftp/arxiv/papers/2104/2104.10350.pdf)
 
-## Examples and Implementations
+## Node.js with p5.js + Replicate
 
-- More node.js
-  - 🎥 [Server Side / Express with node.js](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/1-server-side-with-node-js)
-  - 🎥 [HTTP "POST" request with fetch](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/3-http-post-request)
-  - 💻 [Hello World node.js + express + p5 example](https://github.com/Programming-from-A-to-Z/Simple-Express-p5.js)
-- 🎨 [Simpler p5.js + Replicate web app](https://github.com/Programming-from-A-to-Z/Replicate-p5js)
-- 🕸 [Transformer.js Models Running in Browser](https://github.com/Programming-from-A-to-Z/transformers-js-examples)
-- 💬 [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
-- 💬 [ChatBot with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate)
+- 🎥 [Workflow: Terminal, Shell, Node.js, VSCode](https://thecodingtrain.com/tracks/discord-bots/discord/2023-workflow)
+- 🎥 [How to Set Up a Node.js Project](https://thecodingtrain.com/tracks/discord-bots/discord/setup-node-project)
+- 🎥 [Server Side / Express with node.js](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/1-server-side-with-node-js)
+- 🎥 [HTTP "POST" request with fetch](https://thecodingtrain.com/tracks/data-and-apis-in-javascript/data/2-data-selfie-app/3-http-post-request)
+
+### Node.js + p5.js Template
+
+- 💻 [Hello World node.js + express + p5 example](https://github.com/Programming-from-A-to-Z/Simple-Express-p5.js)
+
+### Replcate Examples
+
+- 🎨 [Hello World p5.js + Replicate web app](https://github.com/Programming-from-A-to-Z/Replicate-p5js)
+- ⌨️ [Streaming results from Replicate model to p5.js](https://github.com/Programming-from-A-to-Z/Replicate-p5js-stream)
+- 💬 [ChatBot Conversations with Llama via Replicate](https://github.com/Programming-from-A-to-Z/llama-chatbot-replicate)
 - 💻 [Misc Models via Replicate](https://github.com/Programming-from-A-to-Z/Replicate-Examples)
+
+### Fine-tuning with Replicate
+
+- [Official Replicate Documentation](https://replicate.com/docs/guides/fine-tune-a-language-model)
+- [Repo with Instructions and Code Example for fine-tuning](https://github.com/Programming-from-A-to-Z/Replicate-Fine-Tuning)
+
+### Other Resources and Examples
+
+- 💬 [ChatGPT Clone with OpenAI API](https://github.com/Programming-from-A-to-Z/ChatGPT-clone)
 - 🦙 [Ollama: Run Llama locally](https://ollama.ai/)
 
 ## Assignment

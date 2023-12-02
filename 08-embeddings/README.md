@@ -24,10 +24,24 @@
 
 - 📚 [How to use retrieval augmented generation](https://replicate.com/blog/how-to-use-rag-with-chromadb-and-mistral-7b-instruct)
 
-## Code Examples
+## Code Examples with Replicate
 
-- 💻 [Retrieval Augmented Generation (RAG) with p5.js + Replicate](https://github.com/Programming-from-A-to-Z/Example-RAG-Replicate), uses [bge-large-en-v1.5](https://replicate.com/nateraw/bge-large-en-v1.5)
-- 💻 [Embeddings with Transformers.js](https://github.com/Programming-from-A-to-Z/transformers-js-examples/tree/main/embeddings), uses [Xenova/all-MiniLM-L6-v2](https://huggingface.co/Xenova/all-MiniLM-L6-v2)
+- 💻 [Making your own Embeddings "Database"](https://github.com/Programming-from-A-to-Z/Save-Embeddings-Replicate), uses [bge-large-en-v1.5](https://replicate.com/nateraw/bge-large-en-v1.5)
+- 💻 [Retrieval Augmented Generation (RAG) with p5.js + Replicate](https://github.com/Programming-from-A-to-Z/Example-RAG-Replicate)
+
+## On device, in browser embeddings (no node.js required!!)
+
+- 💻 [Embeddings with Transformers.js](https://github.com/Programming-from-A-to-Z/transformers-js-examples), uses [Xenova/all-MiniLM-L6-v2](https://huggingface.co/Xenova/all-MiniLM-L6-v2)
+
+## Clustering with UMAP dimensionality reduction
+
+- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
+- [umap-js](https://github.com/PAIR-code/umap-js)
+- UMAP p5.js examples
+  - [Simple clustering 3D colors -> 2D](https://editor.p5js.org/a2zitp/sketches/ZaehMFonQ)
+  - [Simple clustering random data, adjusting umap parameters](https://editor.p5js.org/a2zitp/sketches/ANn4gUQfP)
+  - [Animating UMAP process with larger color dataset](https://editor.p5js.org/a2zitp/sketches/ANn4gUQfP)
+  - [Clustering sentence embeddings from a database!]()
 
 ## Assignment
 
