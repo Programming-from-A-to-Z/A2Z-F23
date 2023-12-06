@@ -87,3 +87,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Hyungin [Node.js with p5, Llama Chatbot via Replicate](https://expensive-binder-72c.notion.site/Week-08-de72d906f0444534bcdebcd247dde412?pvs=4)
 - Mat - [Thoughts on LLMs/Voice Generation using Replicate](https://www.virtualvector.xyz/programming-a2z-week-10/)
 - Kay - [Catgirls at Law/ LLM Experiments](https://kayitp.wordpress.com/2023/11/28/a-to-z-llm-experiments/)
+- Priyanka - [Llama Llama Red Pajama](https://www.priyankamakin.com/blog/itp-programming-a2z-transformers-and-final-project-ideas)
