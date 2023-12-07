@@ -23,15 +23,15 @@ This can mean something different for different projects. For an interactive web
 
 If you are not sure how to design your testing, e-mail me and we'll discuss.
 
-### Group A Presenters: 3:30-4:30
+### Group A Presenters: 9:30-10:30
 
-- TBD
+- Lan, Jane, Tres, Joann, Cindy, Athena, Annan, Hyungin
 
-### Group B Presenters: 4:45-5:45
+### Group B Presenters: 10:45-11:45
 
-- TBD
+-- Mathew, Lisa, Mica, Priyanka, Daniel, Stella, Oliver, Lisha, Yizhi
 
-### 5:45
+### 11:45
 
 - Course evaluations
 
