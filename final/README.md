@@ -29,7 +29,7 @@ If you are not sure how to design your testing, e-mail me and we'll discuss.
 
 ### Group B Presenters: 10:45-11:45
 
--- Mathew, Lisa, Mica, Priyanka, Daniel, Stella, Oliver, Lisha, Yizhi
+- Mathew, Lisa, Mica, Priyanka, Daniel, Stella, Oliver, Lisha, Yizhi
 
 ### 11:45
 
