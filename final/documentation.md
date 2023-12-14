@@ -2,11 +2,31 @@
 
 ## Schedule and Documentation Links:
 
-- 3:30: Welcome! 👋
+- Lisa --
+- Welcome! 👋
+- Yizhi --
+- Priyanka --
+- Cindy --
+- Tres --
+- Jane --
+- Joann - 
+- Annan --
+- Hyungin --
+- Daniel -- 
+- ☕️ BREAK 🍹
+- Athena --
+- Oliver --
+- Mica -- 
+- Stella --
+- Kay --
+- Lisha --
+- Mathew -- 
+- Lan -- 
+- Thank you! ❤️
 
 ## Guidelines
 
-Final project presentations are **Friday, December 15th**, during regular class time. Presentations will be approximately 8 minutes each, I will be strict about the time to keep everything on schedule.
+Final project presentations are **Friday, December 15th**, during regular class time. Presentations will be approximately 7 minutes each, I will be strict about the time to keep everything on schedule.
 
 Please post your final project documentation to a web page (blog post is fine) and pull request a link next to your name on the above. This is due **Monday, December 18**.
 
