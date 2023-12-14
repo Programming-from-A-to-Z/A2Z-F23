@@ -4,7 +4,6 @@
 
 - Lisa --
 - Welcome! 👋
-- Yizhi --
 - Priyanka --
 - Cindy --
 - Tres --
@@ -13,6 +12,7 @@
 - Annan --
 - Hyungin --
 - Daniel -- 
+- Yizhi --
 - ☕️ BREAK 🍹
 - Athena --
 - Oliver --
