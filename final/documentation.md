@@ -4,7 +4,7 @@
 
 - Lisa --
 - Welcome! 👋
-- Priyanka --
+- Priyanka -- [AI Deity](https://www.priyankamakin.com/blog/itp-programming-a2z-final-project-progress)
 - Cindy --
 - Tres --
 - Jane --
