@@ -14,7 +14,7 @@
 - Daniel -- 
 - Yizhi --
 - ☕️ BREAK 🍹
-- Athena --
+- Athena -- [Notion Doc](https://www.notion.so/athenazhou/Documentation-5eada2f2b9694a01a9efb24b89e30bd4?pvs=4), How Are you
 - Oliver --
 - Mica -- 
 - Stella --
