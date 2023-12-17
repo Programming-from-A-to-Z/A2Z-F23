@@ -8,7 +8,7 @@
 - Cindy --
 - Tres --
 - Jane --
-- Joann - 
+- Joann - [Documentation](https://www.notion.so/janecheng/Week-13-FINAL-e8385ef7bd2d4060ae88ee9056e090e6)
 - Annan --
 - Hyungin --
 - Daniel -- 
