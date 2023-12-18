@@ -7,8 +7,8 @@
 - Priyanka -- [AI Deity](https://www.priyankamakin.com/blog/itp-programming-a2z-final-project-progress)
 - Cindy --
 - Tres --
-- Jane --
-- Joann - [Documentation](https://www.notion.so/janecheng/Week-13-FINAL-e8385ef7bd2d4060ae88ee9056e090e6)
+- Jane -- [Documentation](https://www.notion.so/janecheng/Week-13-FINAL-e8385ef7bd2d4060ae88ee9056e090e6)
+- Joann - [Documentation](https://joannmyung.notion.site/Dynamic-Cables-A-Z-Final-Joann-Myung-1fd6d6f05f884b10ac442b3774cf49bf)
 - Annan --
 - Hyungin --
 - Daniel -- 
