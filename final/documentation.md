@@ -11,7 +11,7 @@
 - Joann - [Documentation](https://joannmyung.notion.site/Dynamic-Cables-A-Z-Final-Joann-Myung-1fd6d6f05f884b10ac442b3774cf49bf)
 - Annan --
 - Hyungin --
-- Daniel -- 
+- Daniel -- [Symbiosis Github Repo](https://github.com/DanNoblem/SymbiosisThreeJS?tab=readme-ov-file)
 - Yizhi --
 - ☕️ BREAK 🍹
 - Athena -- [Notion Doc](https://www.notion.so/athenazhou/Documentation-5eada2f2b9694a01a9efb24b89e30bd4?pvs=4), How Are you
